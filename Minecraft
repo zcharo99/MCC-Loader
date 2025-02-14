@@ -592,1092 +592,1093 @@ while True:
     os.system('cls')
     print(mine)
     chon = input('                                               \033[1;39m[\033[1;31m×\033[1;39m] \033[1;39m>> ')
-    if chon == '-':
-        os.system('cls')
-        print("Now entering : SSTool")
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/SSTool').text)
-    elif chon == '1.1':
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Vape').text)
-    elif chon == '2.1':
-        webbrowser.open_new("https://www.mediafire.com/file/1ogrrrao7vkef7s/Blossom.zip/file")
-    elif chon == '3.1':
-        webbrowser.open_new("https://www.mediafire.com/file/ufktd90e503p7cb/drim.zip/file")
-    elif chon == '4.1':
-        webbrowser.open_new("https://www.mediafire.com/file/asd0skn12pgur93/Slap.zip/file")
-    elif chon == '5.1':
-        webbrowser.open_new("https://www.mediafire.com/file/890qfvw73k97qll/Whiteout_V2.3.zip/file")
-    elif chon == '6.1':
-        webbrowser.open_new("https://www.mediafire.com/file/p43x2u7j2428y4c/eternal_internal.dll/file")
-    elif chon == '7.1':
-        webbrowser.open_new("https://www.mediafire.com/file/znnwsj939jlby2g/Koid.zip/file")
-    elif chon == '8.1':
-        webbrowser.open_new("https://www.mediafire.com/file/tnqrduaaqyu9fn8/Zoomin.zip/file")
-    elif chon == '9.1':
-        webbrowser.open_new("https://www.mediafire.com/file/hrls1h4mp516fy7/Luvsy_Ghost_v1.0.zip/file")
-    elif chon == '10.1':
-        webbrowser.open_new("https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file")
-    elif chon == '11.1':
-        webbrowser.open_new("https://www.mediafire.com/file/gh4y87z2ybgvc9x/1.8-OptiFine_HD_U_H2.zip/file")
-    elif chon == '12.1':
-        webbrowser.open_new("https://www.mediafire.com/file/bsw9lwpbne9ev8w/Neo_Reach.zip/file")
-    elif chon == '13.1':
-        webbrowser.open_new("https://www.mediafire.com/file/idmpo6rmc56b826/Obscure.zip/file")
-    elif chon == '14.1':
-        webbrowser.open_new("https://www.mediafire.com/file/njdn9o73gehyxxb/Lithium_Lite.zip/file")
-    elif chon == '15.1':
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Raven').text)
-    elif chon == '16.1':
-        webbrowser.open_new("https://www.mediafire.com/file/9bw1ggpe6lpitpe/Fractal.zip/file")
-    elif chon == '17.1':
-        webbrowser.open_new("https://www.mediafire.com/file/29naq1ybrud7f5k/WTap_v3.zip/file")
-    elif chon == '18.1':
-        webbrowser.open_new("https://www.mediafire.com/file/o565tmgdhx1chvd/ESP.zip/file")
-    elif chon == '19.1':
-        webbrowser.open_new("https://www.mediafire.com/file/9wstbkahtv0ux2j/Cucklord.zip/file")
-    elif chon == '20.1':
-        webbrowser.open_new("https://www.mediafire.com/file/t9mrmlmgxb4nsgv/Cucklord_Reborn.zip/file")
-    elif chon == '21.1':
-        webbrowser.open_new("https://www.mediafire.com/file/ymd1hc1j7nb7qj1/Elixe.zip/file")
-    elif chon == '22.1':
-        webbrowser.open_new("https://www.mediafire.com/file/x2epdf2ai8xlr15/Iridium_Ghost.zip/file")
-    elif chon == '23.1':
-        webbrowser.open_new("https://www.mediafire.com/file/yzbmndznry00jrk/Axenta_V2.zip/file")
-    elif chon == '24.1':
-        webbrowser.open_new("https://www.mediafire.com/file/iiapzj07j8e1z6a/Smok.zip/file")
-    elif chon == '25.1':
-        webbrowser.open_new("https://www.mediafire.com/file/vtp18l7ygr7t0ff/Itami.zip/file")
-    elif chon == '26.1':
-        webbrowser.open_new("https://www.mediafire.com/file/seaymmk3w14rxt7/Kriso_b1.zip/file")
-    elif chon == '27.1':
-        webbrowser.open_new("https://www.mediafire.com/file/0avv5njdwx29omn/Mind_Client.zip/file")
-    elif chon == '28.1':
-        webbrowser.open_new("https://www.mediafire.com/file/f8ka0ch9m07680b/Mye_Ghost.zip/file")
-    elif chon == '29.1':
-        webbrowser.open_new("https://www.mediafire.com/file/t0cv0fs3mw3vdvq/Nyctum.zip")
-    elif chon == '30.1':
-        webbrowser.open_new("https://www.mediafire.com/file/v0jvcvvc1kbhj2t/Shiba.zip/file")
-    elif chon == '31.1':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1049374498442461194/1081999382569820180/Uboa_v2.jar")
-    elif chon == '32.1':
-        webbrowser.open_new("https://workupload.com/file/JjFABQCJspJ")
-    elif chon == '33.1':
-        webbrowser.open_new("https://www.mediafire.com/file/fny7xzarjh8n415/Whiteout_V3.zip/file")
-    elif chon == '34.1':
-        webbrowser.open_new("https://www.mediafire.com/file/wgyzc22pxc83ryf/Emo.zip/file")
-    elif chon == '35.1':
-        webbrowser.open_new("https://www.mediafire.com/file/98j1hfy0pkjmk7b/Epic.zip/file")
-    elif chon == '36.1':
-        webbrowser.open_new("https://www.mediafire.com/file/zjgx3rat06duvm6/Gasper.zip/file")
-    elif chon == '37.1':
-        webbrowser.open_new("https://www.mediafire.com/file/vyxlihy85lsx4mu/Chromatic.zip/file")
-    elif chon == '38.1':
-        webbrowser.open_new("https://www.mediafire.com/file/9uujyo7z1gl0rms/Akira.zip/file")
-    elif chon == '39.1':
-        webbrowser.open_new("https://www.mediafire.com/file/64h90bxzpy485wo/Bayoneta.zip/file")
-    elif chon == '40.1':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/vega.exe")
-    elif chon == '41.1':
-        webbrowser.open_new("https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file")
-    elif chon == '42.1':
-        webbrowser.open_new(
-            "https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9/releases/download/1.8.9/cheatbreaker.ghost.client.rar")
-    elif chon == '43.1':
-        webbrowser.open_new("https://www.mediafire.com/file/bq0hwesqqlpv5tk/EvilEye.zip/file")
-    elif chon == '44.1':
-        webbrowser.open_new("https://www.mediafire.com/file/y3onjsycdh99fxe/BetterTimeChanger.zip/file")
-    elif chon == '45.1':
-        webbrowser.open_new("https://www.mediafire.com/file/9y9i2dwo53bgqyc/Candy.zip/file")
-    elif chon == '46.1':
-        webbrowser.open_new("https://www.mediafire.com/file/vivcxqep3ft1kfj/Storm.zip/file")
-    elif chon == '47.1':
-        webbrowser.open_new("https://www.mediafire.com/file/1vyyqyveaux9ry4/ReachDisplay_Reach.zip/file")
-    elif chon == '48.1':
-        webbrowser.open_new("https://www.mediafire.com/file/bnre5f11npssw7w/Noise.zip/file")
-    elif chon == '49.1':
-        webbrowser.open_new("https://www.mediafire.com/file/pzuc1jjofuz71wd/Supremacy.zip/file")
-    elif chon == '50.1':
-        webbrowser.open_new("https://www.mediafire.com/file/lr54bxtfgxrkua6/Sprite.zip/file")
-    elif chon == '51.1':
-        webbrowser.open_new("https://www.mediafire.com/file/tsewloxt6w8c42o/Weizu_Reach.zip/file")
-    elif chon == '52.1':
-        webbrowser.open_new("https://www.mediafire.com/file/pao7e8ovi57hoy7/Juul.zip/file ")
-    elif chon == '53.1':
-        webbrowser.open_new("https://mega.nz/file/03onAJrL#97-ZrtBai1RkZ_a3vx8hCbdqrO-Kp5hxdnSkUGRqEmI")
-    elif chon == '54.1':
-        webbrowser.open_new("https://www.mediafire.com/file/4s2cm60pk4end8j/Legitish.zip/file")
-    elif chon == '55.1':
-        webbrowser.open_new("https://workupload.com/file/WheZ8nzR78H")
-    elif chon == '56.1':
-        webbrowser.open_new("https://www.mediafire.com/file/g2qsbx61itsuki6/North+(2).zip/file")
-    elif chon == '57.1':
-        webbrowser.open_new("https://www.mediafire.com/file/1gz6dk5dkzonr3s/November.zip/file")
-    elif chon == '58.1':
-        webbrowser.open_new("https://github.com/ClientPlayground/Lightning-Client")
-    elif chon == '59.1':
-        webbrowser.open_new("https://github.com/VertineClient/vertine-injector")
-    elif chon == '60.1':
-        webbrowser.open_new("https://www.mediafire.com/file/suyzmw8ryquut2l/Amari-Beta-Installer.zip/file")
-    elif chon == '61.1':
-        webbrowser.open_new("https://crystalpvp.ru/slinky/slinkycrack.zip")
-    elif chon == '62.1':
-        webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZQqrWZqYLqkNe3eLQsnxzSYBracpqqznmy#ret    url=https%3A//e.pcloud.link/publink/show%3Fcode%3DXZQqrWZqYLqkNe3eLQsnxzSYBracpqqznmy&page=login")
-    elif chon == '63.1':
-        webbrowser.open_new("https://github.com/Abyss-Client/Injector/releases/latest")
-    elif chon == '64.1':
-        webbrowser.open_new("https://github.com/PlutoSolutions/Hash")
-    elif chon == '65.1':
-        webbrowser.open_new("https://mega.nz/file/iNZFHZKC#vC75RbcuG9VfXDq4b4NG6uW8GTjEyKuemDshklCwJK8")
-    elif chon == '66.1':
-        webbrowser.open_new("https://www.mediafire.com/file/10e8ionjci2j08x/Huume.zip/file")
-    elif chon == '67.1':
-        webbrowser.open_new("https://www.mediafire.com/file/aw2f55x1hh5t7gj/Haru_AimAssist.zip/file")
-    elif chon == '68.1':
-        webbrowser.open_new("https://www.mediafire.com/file/6qedg0d2q9aej3l/Dropsy.zip/file")
-    elif chon == '69.1':
-        webbrowser.open_new("https://www.mediafire.com/file/tjvzngjkiufy4h6/Lux_Cleaner.zip/file")
-    elif chon == '70.1':
-        webbrowser.open_new("https://www.mediafire.com/file/0avv5njdwx29omn/Mind_Client.zip/file")
-    elif chon == '71.1':
-        webbrowser.open_new("https://lol.hovac.fun/archive/jelte/files/vea.jar")
-    elif chon == '72.1':
-        webbrowser.open_new("https://www.mediafire.com/file/97h25vo4g2mnyiu/Willy_%25281.7.10%252C_1.8.9%2529.zip/file")
-    elif chon == '73.1':
-        webbrowser.open_new("https://www.mediafire.com/file/1qqo6fl0v42tt50/Trump.zip/file")
-    elif chon == '74.1':
-        webbrowser.open_new("https://www.mediafire.com/file/55w2fkj0ybspdbk/gucci.jar/file?dkey=5w91nqz873u&r=795")
-    elif chon == '75.1':
-        webbrowser.open_new("https://lol.hovac.fun/archive/jelte/files/magenta.jar")
-    elif chon == '76.1':
-        webbrowser.open_new("https://www.mediafire.com/file/nuwcr6e6y69xodp/Mob_%25281.8.9%2529.zip/file")
-    elif chon == '77.1':
-        webbrowser.open_new("https://lol.hovac.fun/download.html?dl=aHR0cHM6Ly9ob3ZhYy5mdW4vZGwvTWVyZ2Uuemlw")
-    elif chon == '78.1':
-        webbrowser.open_new("https://www.mediafire.com/file/2so415guui9a15b/Dream+Advanced.rar/file")
-    elif chon == '79.1':
-        webbrowser.open_new("https://www.mediafire.com/file/l5unq5lsv248on0/Virtyu_Lite.zip/file")
-    elif chon == '80.1':
-        webbrowser.open_new("https://www.mediafire.com/file/m0fqwwd7ton453l/Latemod.zip/file")
-    elif chon == '81.1':
-        webbrowser.open_new("https://www.mediafire.com/file/dfwgim34qllswjv/Lean.zip/file")
-    elif chon == '82.1':
-        webbrowser.open_new("https://www.mediafire.com/file/j2ntt3xm98abuyj/Night_Injection.zip/file")
-    elif chon == '83.1':
-        webbrowser.open_new("https://mega.nz/file/WM41GJ4T#_4yKJio9B9jrV4htJFBvePGk-HCljijOrPJCyAtRgvU")
-    elif chon == '84.1':
-        webbrowser.open_new("https://mega.nz/file/vJpxUIDB#KkXweC9OYYhAFjuqiTE2YGOnhE8zqprIWPsjcu3bU5E")
-    elif chon == '85.1':
-        webbrowser.open_new("https://www.mediafire.com/file/syy6so30cunq0hv/Tap.zip/file")
-    elif chon == '86.1':
-        webbrowser.open_new("https://www.mediafire.com/file/epqvohxafhcjvta/Starlight_Clicker.zip/file")
-    elif chon == '87.1':
-        webbrowser.open_new("https://www.mediafire.com/file/sg4aly241pwlrb0/Starlight.zip/file")
-    elif chon == '88.1':
-        webbrowser.open_new("https://www.mediafire.com/file/i20fmx6mh3jaceq/Drizzle.zip/file")
-    elif chon == '89.1':
-        webbrowser.open_new("https://www.mediafire.com/file/m2wf2gpsjcx1a9w/Polaroid.rar/file")
-    elif chon == '90.1':
-        webbrowser.open_new("https://www.mediafire.com/file/4hs4tz4yco7zghh/Fusion.rar/file")
-    elif chon == '91.1':
-        webbrowser.open_new("https://www.mediafire.com/file/v7qncdv73rcprvs/Ripterms.rar/file")
-    elif chon == '92.1':
-        webbrowser.open_new("https://www.mediafire.com/file/d8wm22jyeuyilrs/PINKY.zip/file")
-    elif chon == '93.1':
-        webbrowser.open_new("https://www.mediafire.com/file/fuurqxbq4xucrs6/WNAO.zip/file")
-    elif chon == '94.1':
-        webbrowser.open_new("https://www.mediafire.com/file/ugostl54ku518ew/Raid0.zip/file")
-    elif chon == '95.1':
-        webbrowser.open_new("https://www.mediafire.com/file/v7qncdv73rcprvs/Ripterms.rar/file")
-    elif chon == '96.1':
-        webbrowser.open_new("https://mega.nz/file/vYRRRTpb#05z4GtVC9mcyOoA40bsFt_GDYMMob8qHdQ-UPakzaa8")
-    elif chon == '97.1':
-        webbrowser.open_new("https://mega.nz/file/uYpijIZJ#l9Y3mJ3i8h9RIc64jF9AmFUPV8w2QMCsDUTpAy0D25c")
-    elif chon == '98.1':
-        webbrowser.open_new("https://www.mediafire.com/file/jr512pt0fi24qo9/Ranked.rar/file")
-    elif chon == '99.1':
-        webbrowser.open_new("https://www.mediafire.com/file/a7icq8y3voq4mop/Silent.rar/file")
-    elif chon == '100.1':
-        webbrowser.open_new("https://www.mediafire.com/file/89icqq6gdusecps/Styx.zip/file")
-    elif chon == '101.1':
-        webbrowser.open_new("https://www.mediafire.com/file/okm0ohu2g1v30l1/Skidware.zip/file")
-    elif chon == '102.1':
-        webbrowser.open_new("https://mega.nz/file/jNAh3JaL#nJwH0EaYZe_-NQkh_l92xNYECzmmcrC-wODqideWidY")
-    elif chon == '103.1':
-        webbrowser.open_new("https://mega.nz/file/GAJFSTiL#gK-RZPkXOCHakXzSonc04VtTPU2grOyO8T6PzKk-sIk")
-    elif chon == '104.1':
-        webbrowser.open_new("https://www.mediafire.com/file/w8ovnm7fijpl2uo/Crypt.zip/file")
-    elif chon == '105.1':
-        webbrowser.open_new("https://www.mediafire.com/file/jcuqa9nsh9cnibk/Matic.rar/file")
-    elif chon == '106.1':
-        webbrowser.open_new("https://github.com/Oxy-Client/Client")
-    elif chon == '1.2':
-        exec(requests.get("https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Vestige").text)
-    elif chon == '2.2':
-        webbrowser.open_new("https://www.mediafire.com/file/pd40jvic352zopy/Huzuni_Dev15_%25281.8%2529.zip/file")
-    elif chon == '3.2':
-        webbrowser.open_new("https://www.mediafire.com/file/z1dpsfi8ow4k0ar/sigma.zip/file")
-    elif chon == '4.2':
-        webbrowser.open_new("https://www.mediafire.com/file/76pwmepnhmh1j3r/FDP_Client_Clean_4934678.jar/file")
-    elif chon == '5.2':
-        webbrowser.open_new("https://drive.google.com/file/d/1bMBKvXvoqv85LvMnCUIUh3jkSwtkcw4R/view")
-    elif chon == '6.2':
-        webbrowser.open_new("https://drive.google.com/file/d/1DiKI8M4TAnhvYEHCHdQgMjhkls33jDF9/view")
-    elif chon == '7.2':
-        webbrowser.open_new("https://drive.google.com/file/d/1NjWP-HWSenlE8dWmbBfoGbN_UU2GZhmL/view")
-    elif chon == '8.2':
-        webbrowser.open_new("https://workupload.com/file/Re6GJ2mWXJX")
-    elif chon == '9.2':
-        webbrowser.open_new("https://www.blackspigot.com/downloads/stitch-client.29423/")
-    elif chon == '10.2':
-        webbrowser.open_new("https://www.mediafire.com/file/sw4b7p7hdfhztfn/Novoline.zip/file")
-    elif chon == '11.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ek0gg130dm767rb/CrossSine-B31.jar/file")
-    elif chon == '12.2':
-        webbrowser.open_new("https://www.mediafire.com/file/vti3ff68h26jhvu/BlazeClient.zip/file")
-    elif chon == '13.2':
-        webbrowser.open_new("https://www.mediafire.com/file/rvje41s01i4gary/zrd.zip/file")
-    elif chon == '14.2':
-        webbrowser.open_new("https://www.mediafire.com/file/komh0qjyq6lh6de/Moon.rar/file")
-    elif chon == '15.2':
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Rise').text)
-    elif chon == '16.2':
-        webbrowser.open_new("https://www.mediafire.com/file/itc99scy7znfwfd/Dortware.zip/file")
-    elif chon == '17.2':
-        webbrowser.open_new("https://www.mediafire.com/file/cy4g72taj57119o/Drunk_Client.zip/file")
-    elif chon == '18.2':
-        webbrowser.open_new("https://www.mediafire.com/file/wdoyfxhb4id2nkp/EaZy+b1337.zip/file")
-    elif chon == '19.2':
-        webbrowser.open_new("https://www.mediafire.com/file/wzh1dzuqynvo7fz/Astrohook_1.8.8.zip/file")
-    elif chon == '20.2':
-        webbrowser.open_new("https://www.mediafire.com/file/a7hdv2aj1lrbo42/Autumn.zip/file")
-    elif chon == '21.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ey1vhkcz2o8k1yj/Crass_B2.rar/file")
-    elif chon == '22.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ipu0x5vekwy805x/DeepwaterHorizon.zip/file")
-    elif chon == '23.2':
-        webbrowser.open_new("https://www.mediafire.com/file/gxvdxh7zzbw3lug/Ketamine.zip/file")
-    elif chon == '24.2':
-        webbrowser.open_new("https://www.mediafire.com/file/eg8tn6wycpj7erl/Sativa.zip/file")
-    elif chon == '25.2':
-        webbrowser.open_new("https://www.mediafire.com/file/vhwf5gmakavup4m/Xatz_Client.zip/file")
-    elif chon == '26.2':
-        webbrowser.open_new("https://www.mediafire.com/file/agb4afnwe68h2mv/Senura.zip/file")
-    elif chon == '27.2':
-        webbrowser.open_new("https://www.mediafire.com/file/vw3kenw8pm2fo6v/LiquidX-v3.3.jar/file")
-    elif chon == '28.2':
-        webbrowser.open_new("https://www.mediafire.com/file/8x1mn0m10e5l68e/NightX-B57-Release.zip/file")
-    elif chon == '29.2':
-        webbrowser.open_new("https://www.mediafire.com/file/a9gggfoltly67hl/IcarusX_old_version.rar/file")
-    elif chon == '30.2':
-        webbrowser.open_new("https://www.mediafire.com/file/wbbf46q5mkut5qv/IceTea.zip/file")
-    elif chon == '31.2':
-        webbrowser.open_new("https://www.mediafire.com/file/yja0jaor2kea9ew/DuckSense-Legacy.jar/file")
-    elif chon == '32.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ql1bcg75md94lls/Mylo.zip/file")
-    elif chon == '33.2':
-        webbrowser.open_new("https://www.mediafire.com/file/o5zroqoyuev5vpv/Weedhack.zip/file")
-    elif chon == '34.2':
-        webbrowser.open_new("https://www.mediafire.com/file/8olb1phsp7xtjxl/Vergo.zip/file")
-    elif chon == '35.2':
-        webbrowser.open_new("https://www.mediafire.com/file/7qqpq8clygn4etr/Clean.zip/file")
-    elif chon == '36.2':
-        exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/LiquidBounce').text)
-    elif chon == '37.2':
-        webbrowser.open_new("https://qiwi.gg/file/2RcMi0g8Pig81WTyTmwEmxHChiy-317395-Augustus")
-    elif chon == '38.2':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/Lime.zip")
-    elif chon == '39.2':
-        webbrowser.open_new("https://www.mediafire.com/file/5xpzb7zn6py4263/Azazaaa.zip/file")
-    elif chon == '40.2':
-        webbrowser.open_new("https://www.mediafire.com/file/uv4tlaun90mdm5t/Eris_v0.1b.zip/file")
-    elif chon == '41.2':
-        webbrowser.open_new("https://www.mediafire.com/file/2xf07ank6q8hn7k/Gravity_2.1.zip/file")
-    elif chon == '42.2':
-        webbrowser.open_new("https://www.mediafire.com/file/cjnhbq8zi6ymud2/MythRecode.zip/file")
-    elif chon == '43.2':
-        webbrowser.open_new("https://www.mediafire.com/file/lykk51nxnj69rug/Resolute.zip/file")
-    elif chon == '44.2':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/Exhibition.zip")
-    elif chon == '45.2':
-        webbrowser.open_new("https://workupload.com/file/rtDnzJ4AdHD")
-    elif chon == '46.2':
-        webbrowser.open_new("https://www.mediafire.com/file/oh5i9phntq5belu/TANK_V4.rar/file")
-    elif chon == '47.2':
-        webbrowser.open_new("https://www.mediafire.com/file/f58fm3ala4gd9jh/Lirium.zip/file")
-    elif chon == '48.2':
-        webbrowser.open_new("https://workupload.com/file/KNBVq9RWveV")
-    elif chon == '49.2':
-        webbrowser.open_new("https://www.mediafire.com/file/7o90az3854e6nrk/Nur_6.5.rar/file")
-    elif chon == '50.2':
-        webbrowser.open_new("https://www.mediafire.com/file/jdgcjay0c2cxr9o/Aritum.zip/file")
-    elif chon == '51.2':
-        webbrowser.open_new("https://www.mediafire.com/file/mtx81r37t9m17i8/Trinity_2.10.zip/file")
-    elif chon == '52.2':
-        webbrowser.open_new("https://www.mediafire.com/file/v6aky6mbt122h1s/Fan.zip/file")
-    elif chon == '53.2':
-        webbrowser.open_new("https://anotepad.com/notes/gpniw2gw")
-    elif chon == '54.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ys7mbvidluv4ehb/Milky_b4.zip/file")
-    elif chon == '55.2':
-        webbrowser.open_new("https://www.mediafire.com/file/t25fequ4ap6j9tz/IntCrack_%2528old%2529.zip/file")
-    elif chon == '56.2':
-        webbrowser.open_new("https://www.mediafire.com/file/d2286khjb7adwnr/Gothaj.zip/file")
-    elif chon == '57.2':
-        webbrowser.open_new("https://github.com/RE-KevinClient/KevinClient-Reborn/releases/tag/u2.4.8")
-    elif chon == '58.2':
-        webbrowser.open_new("https://workupload.com/file/jMUrDuxpaaH")
-    elif chon == '59.2':
-        webbrowser.open_new("https://workupload.com/file/GpDs5hLFufH")
-    elif chon == '60.2':
-        webbrowser.open_new("https://github.com/WalmartSolutions/Bloody-1.0.1/blob/main/Bloody-v1.0.1.jar")
-    elif chon == '61.2':
-        webbrowser.open_new("https://gitlab.com/3000IQPlay/Prestige/-/archive/main/Prestige-main.zip?path=Prestige7-20240301")
-    elif chon == '62.2':
-        webbrowser.open_new("https://github.com/WalmartSolutions/ThunderHack-Deluxe")
-    elif chon == '63.2':
-        webbrowser.open_new("https://workupload.com/file/KWLqZqNcEfB")
-    elif chon == '64.2':
-        webbrowser.open_new("https://workupload.com/file/6sbhyuvFpcD")
-    elif chon == '65.2':
-        webbrowser.open_new("https://www.mediafire.com/file/w0bsrpe00jtvkc3/ClientWare_b1.0.zip/file")
-    elif chon == '66.2':
-        webbrowser.open_new("https://sites.google.com/view/nezha-anticheat/sigma-archive")
-    elif chon == '67.2':
-        webbrowser.open_new("https://workupload.com/file/ux2JBKK8dU5")
-    elif chon == '68.2':
-        webbrowser.open_new("https://workupload.com/file/szFZJUmjGmL")
-    elif chon == '69.2':
-        webbrowser.open_new("https://www.mediafire.com/file/xkm16qm7q5x94g8/rektsky.rar/file")
-    elif chon == '70.2':
-        webbrowser.open_new("https://fdpinfo.github.io/download")
-    elif chon == '71.2':
-        webbrowser.open_new("https://workupload.com/file/deQbL32TQR4")
-    elif chon == '72.2':
-        webbrowser.open_new("https://www.mediafire.com/file/jxtx2qvjtg5ya8n/Negr.zip/file")
-    elif chon == '73.2':
-        webbrowser.open_new("https://github.com/WalmartSolutions/Asteria.rip")
-    elif chon == '74.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1129999297857990660/1169887601445052436/Lime-reborn.zip?ex=655709bb&is=654494bb&hm=d3d786081e19bc5fd3b50eec0e77218a97c50457db68bdb15a7f97adc211b6c1&")
-    elif chon == '75.2':
-        webbrowser.open_new("https://github.com/laoshuikaixue/FDPClient")
-    elif chon == '76.2':
-        webbrowser.open_new("https://workupload.com/file/c823T2LaFTv")
-    elif chon == '77.2':
-        webbrowser.open_new("https://www.mediafire.com/file/4419kb1fnbbszwd/Helios.zip/file")
-    elif chon == '78.2':
-        webbrowser.open_new("https://workupload.com/file/DFxJMNXqTDA")
-    elif chon == '79.2':
-        webbrowser.open_new("https://www.mediafire.com/file/5c6ico912uq3wdn/Asyncware.zip/file")
-    elif chon == '80.2':
-        webbrowser.open_new("https://www.mediafire.com/file/s4pubyxcv167mct/Summer+Reborn+v3.zip/file")
-    elif chon == '81.2':
-        webbrowser.open_new("https://www.mediafire.com/file/382s01u180l8pti/Satiate.zip/file")
-    elif chon == '82.2':
-        webbrowser.open_new("https://workupload.com/file/BeHqpWqNMVv")
-    elif chon == '83.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1160274406128484403/1181187679648489482/airclient-1.2.jar?ex=658025c0&is=656db0c0&hm=d34ecc28179ffc6787fcf8f42a180806c9ef11342503d7ce38289675b8630656&")
-    elif chon == '84.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187569667779342367/1187569705507115109/SalHack.zip?ex=65975d79&is=6584e879&hm=861c57691bc720a20db3d3b2d83e4e107f35eb6768a3d5c517fdd2b56bcfa726&")
-    elif chon == '85.2':
-        webbrowser.open_new("https://github.com/PlutoSolutions/Boze")
-    elif chon == '86.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615112056557588/Flow-1.1.zip?ex=659787c3&is=658512c3&hm=1744f94d2fc0d26538bb3698677d093104633ced7f5a03f73d8e00a49eff4913&")
-    elif chon == '87.2':
-        webbrowser.open_new("https://github.com/nevalackin/original-radium/")
-    elif chon == '88.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615112555671632/None_B2.1.rar?ex=659787c3&is=658512c3&hm=786957f64ce2b85ec7f6a88fe74d4cc0b93793f6ef89196a898340c3ef9100f1&")
-    elif chon == '89.2':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615113704910908/Ketamine.zip?ex=659787c3&is=658512c3&hm=735a03feae76f7f9ad25604cbf806315129e88b3f6161346cd7f11718fa9eee8&")
-    elif chon == '90.2':
-        webbrowser.open_new("https://www.mediafire.com/file/l8ter4ahaxkw13h/Soar.zip/file")
-    elif chon == '91.2':
-        webbrowser.open_new("https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA ")
-    elif chon == '92.2':
-        webbrowser.open_new("https://drive.proton.me/urls/PB9PKP8C8W#0ol6F9HyRGDL")
-    elif chon == '93.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ev6emsu93584f0h/Skligga_%2528FABRIC%2529.zip/file")
-    elif chon == '94.2':
-        webbrowser.open_new("https://www.mediafire.com/file/k2je7c3nahc04fl/Aoba.rar/file")
-    elif chon == '95.2':
-        webbrowser.open_new("https://www.mediafire.com/file/stksjqj160aijz5/Aether.zip/file")
-    elif chon == '96.2':
-        webbrowser.open_new("https://mega.nz/file/LQghAKrY#KS90dFzsaWNOFOZr6Rv-w8nxeU6m8Ov8iu-X3MU7bFk")
-    elif chon == '97.2':
-        webbrowser.open_new("https://workupload.com/file/Twx5yMkXWDE")
-    elif chon == '98.2':
-        webbrowser.open_new("https://workupload.com/file/pKnzsZBvhJk")
-    elif chon == '99.2':
-        webbrowser.open_new("https://workupload.com/file/NXQWdmWcraf")
-    elif chon == '100.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ebae39q8u50i0t2/KyinoClient-B17.1-Cracked.jar/file")
-    elif chon == '101.2':
-        webbrowser.open_new("https://workupload.com/file/B8qRFBUQaGh")
-    elif chon == '102.2':
-        webbrowser.open_new("https://www.mediafire.com/file/7y821oge0ykikwa/Energy.zip/file")
-    elif chon == '103.2':
-        webbrowser.open_new("https://workupload.com/start/L2q8QV9suua")
-    elif chon == '104.2':
-        webbrowser.open_new("https://workupload.com/file/HES9m4ksEdw")
-    elif chon == '105.2':
-        webbrowser.open_new("https://mega.nz/folder/yJkwwTaQ#l-INjqfZxwAGhuMpWQmbww")
-    elif chon == '106.2':
-        webbrowser.open_new("https://mega.nz/folder/CRtSCbwT#q9TSWIekNLrngDmDLNpucw")
-    elif chon == '107.2':
-        webbrowser.open_new("https://deadcodehack.org/")
-    elif chon == '108.2':
-        webbrowser.open_new("https://workupload.com/file/szFZJUmjGmL")
-    elif chon == '109.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ufcnic3h8ac1krq/Opal+011225+Cracked.zip/file")
-    elif chon == '110.2':
-        webbrowser.open_new("https://workupload.com/file/MZVYaXYKYy2")
-    elif chon == '111.2':
-        webbrowser.open_new("https://workupload.com/file/Ypb7KUM6JYN")
-    elif chon == '112.2':
-        webbrowser.open_new("https://workupload.com/file/zTxjLZ3gHwa")
-    elif chon == '113.2':
-        webbrowser.open_new("https://doomsdayclient.com/")
-    elif chon == '115.2':
-        webbrowser.open_new("https://www.mediafire.com/file/ahqu8yzqif9fozb/Slack.zip/file")
-    elif chon == '116.2':
-        webbrowser.open_new("https://github.com/DGVPSH/SlackOpen")
-    elif chon == '117.2':
-        webbrowser.open_new("https://workupload.com/file/XuChrCxnyrF")
-    elif chon == '118.2':
-        webbrowser.open_new("https://workupload.com/start/5hnCzQqqaxc")
-    elif chon == '119.2':
-        webbrowser.open_new("https://workupload.com/start/5hnCzQqqaxc")
-    elif chon == '120.2':
-        webbrowser.open_new("https://mega.nz/folder/dy9HwSQZ#2GS0LkEtNqEzapmGcIipCw")
-    elif chon == '121.2':
-        webbrowser.open_new("https://workupload.com/file/FnwBFFbntLF")
-    elif chon == '122.2':
-        webbrowser.open_new("https://git.disroot.org/CatsPnewed/Forkbounce.Archive/src/branch/main/DineTire")
-    elif chon == '123.2':
-        webbrowser.open_new("https://workupload.com/file/JJ8Js326PdF")
-    elif chon == '124.2':
-        webbrowser.open_new("https://wdfiles.ru/91d15b")
-    elif chon == '125.2':
-        webbrowser.open_new("https://modsfire.com/rBw5HGyD5PrSIf1")
-    elif chon == '126.2':
-        webbrowser.open_new("https://www.mediafire.com/file/xpekacyayfd6rce/Nursultan_1_12_2.zip/file")
-    elif chon == '127.2':
-        webbrowser.open_new("https://oxy.st/d/OBqh")
-    elif chon == '128.2':
-        webbrowser.open_new("https://workupload.com/file/Nxh5exMLDzJ")
-    elif chon == '129.2':
-        webbrowser.open_new("https://workupload.com/file/WubBC547aWx")
-    elif chon == '130.2':
-        webbrowser.open_new("https://workupload.com/file/CYEXGPE4BaD")
-    elif chon == '131.2':
-        webbrowser.open_new("https://www.mediafire.com/file/2pz6jwsz3xa7xts/wexside.zip")
-    elif chon == '132.2':
-        webbrowser.open_new("https://workupload.com/file/DWp4L3jv6fx")
-    elif chon == '133.2':
-        webbrowser.open_new("https://workupload.com/file/DL8pNyxu82N")
-    elif chon == '134.2':
-        webbrowser.open_new("https://workupload.com/file/jddNj69zRMq")
-    elif chon == '135.2':
-        webbrowser.open_new("https://workupload.com/file/HyLykevQbV2")
-    elif chon == '136.2':
-        webbrowser.open_new("https://workupload.com/start/pwbNqzBKm7C")
-    elif chon == '137.2':
-        webbrowser.open_new("https://workupload.com/file/sje9JUWtnmA")
-    elif chon == '138.2':
-        webbrowser.open_new("https://disk.yandex.ru/d/vNK0tzEqcU2UAQ")
-    elif chon == '139.2':
-        webbrowser.open_new("https://workupload.com/file/yzBVHNxQLKj")
-    elif chon == '140.2':
-        webbrowser.open_new("https://workupload.com/file/DY2pH4sPhtC")
-    elif chon == '141.2':
-        webbrowser.open_new("https://workupload.com/file/qp23g8mCTRW")
-    elif chon == '142.2':
-        webbrowser.open_new("https://mega.nz/folder/5m0RWZKR#NdDhvVBGlFtBn-ZhU6gSkw")
-    elif chon == '143.2':
-        webbrowser.open_new("https://workupload.com/file/ANFtYqH8yBh")
-    elif chon == '144.2':
-        webbrowser.open_new("https://workupload.com/file/C3BfRbAL4kk")
-    elif chon == '145.2':
-        webbrowser.open_new("https://workupload.com/file/Em82eAB7CG7")
-    elif chon == '1.3':
-        webbrowser.open_new("https://www.mediafire.com/file/uixqtdbh7laysge/1337_Clicker.zip/file")
-    elif chon == '2.3':
-        webbrowser.open_new("https://www.mediafire.com/file/4naitvdw5en5wzj/Aion.zip/file")
-    elif chon == '3.3':
-        webbrowser.open_new("https://www.mediafire.com/file/pf0kgzyw25hl1yr/Ape_Clicker.zip/file")
-    elif chon == '4.3':
-        webbrowser.open_new("https://www.mediafire.com/file/8c6gqmtb8pz53gf/Apollyon.zip/file")
-    elif chon == '5.3':
-        webbrowser.open_new("https://www.mediafire.com/file/kx8g6x9oafq5go3/Ares.zip/file")
-    elif chon == '6.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bpw3e5xgvekgwed/Atomic_Clicker.zip/file")
-    elif chon == '7.3':
-        webbrowser.open_new("https://www.mediafire.com/file/jejnjk1bskuddnc/Dropsy.zip/file")
-    elif chon == '8.3':
-        webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZpXouZR28OMEJM2P4vEga03PAdbBCaaEW7")
-    elif chon == '9.3':
-        webbrowser.open_new("https://www.mediafire.com/file/xpb2cg5k9f3lzlx/Exelon.zip/file")
-    elif chon == '10.3':
-        webbrowser.open_new("https://www.mediafire.com/file/v9iaswz213pqu27/Exodus.zip/file")
-    elif chon == '11.3':
-        webbrowser.open_new("https://www.mediafire.com/file/o0t1ygy0rg4l17s/Crim.zip/file")
-    elif chon == '12.3':
-        webbrowser.open_new("https://www.mediafire.com/file/srqyn1hp7rrbbvg/Dewgs_Fully_Private.zip/file")
-    elif chon == '13.3':
-        webbrowser.open_new("https://www.mediafire.com/file/uu2ztwfv42u6gpy/Drowm.zip/file")
-    elif chon == '14.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6y4tom2hfr6qn0w/Carbon.zip/file")
-    elif chon == '15.3':
-        webbrowser.open_new("https://www.mediafire.com/file/d95sszrmm76dy1d/Choppa_Clicker.zip/file")
-    elif chon == '16.3':
-        webbrowser.open_new("https://www.mediafire.com/file/n1fveg4q1e5ntdj/Striker.zip/file")
-    elif chon == '17.3':
-        webbrowser.open_new("https://www.mediafire.com/file/7lrqrng8coi3m3s/Slinkware.zip/file")
-    elif chon == '18.3':
-        webbrowser.open_new("https://www.mediafire.com/file/91icjl7swzn6by2/Sarm_Private.zip/file")
-    elif chon == '19.3':
-        webbrowser.open_new("https://www.mediafire.com/file/kn38x7p0zmodxz3/Bap.zip/file")
-    elif chon == '20.3':
-        webbrowser.open_new("https://www.mediafire.com/file/wdezfkqfsxi4x4q/Bap_Remake.zip/file")
-    elif chon == '21.3':
-        webbrowser.open_new("https://www.mediafire.com/file/wsg0vi9t36qjch6/Bat_Clicker.zip/file")
-    elif chon == '22.3':
-        webbrowser.open_new("https://www.mediafire.com/file/76mgac3hd80slas/Blatant_Maestro.zip/file")
-    elif chon == '23.3':
-        webbrowser.open_new("https://www.mediafire.com/file/b1necl9o1seafzx/Bit.zip/file")
-    elif chon == '24.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6ks0tt5goyksuvw/Cocas_Clicker.zip/file")
-    elif chon == '25.3':
-        webbrowser.open_new("https://www.mediafire.com/file/8uklxkrxquq7eve/Cyxum.zip/file")
-    elif chon == '26.3':
-        webbrowser.open_new("https://www.mediafire.com/file/hy518vksivpbgib/Moon.zip/file")
-    elif chon == '27.3':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/PYClickerV1.1.zip")
-    elif chon == '28.3':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/prism.exe")
-    elif chon == '29.3':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/ppclicker.exe")
-    elif chon == '30.3':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/epicclicker.exe")
-    elif chon == '31.3':
-        webbrowser.open_new("https://www.mediafire.com/file/169w4uu0qj2xn0e/Aurium.zip/file")
-    elif chon == '32.3':
-        webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZqKcpZNSSGbJvdNPhrDIx5XJJ437uCxpEy")
-    elif chon == '33.3':
-        webbrowser.open_new("https://www.mediafire.com/file/cnt9uq2ho6dv07u/Empty.wtf.zip/file")
-    elif chon == '34.3':
-        webbrowser.open_new("https://www.mediafire.com/file/vgfc44jo5p4iq55/Famas.zip/file")
-    elif chon == '35.3':
-        webbrowser.open_new("https://www.mediafire.com/file/2qqn0ezhhqz0rnj/Foam.zip/file")
-    elif chon == '36.3':
-        webbrowser.open_new("https://www.mediafire.com/file/eqvptk86wmet43t/Guam.zip/file")
-    elif chon == '37.3':
-        webbrowser.open_new("https://www.mediafire.com/file/imdyqvqqo21rxhn/Ian_Recorder.zip/file")
-    elif chon == '38.3':
-        webbrowser.open_new("https://mega.nz/file/khIBERRb#K6vs5ETa2-DuBaliYL5FgLF5tQhgKQ_FJI3GDk22gt4")
-    elif chon == '39.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bsnmrsbr6bcnmjh/N0le_Private_Clicker.zip/file")
-    elif chon == '40.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6pk2s7iqipggdp5/Physiological_Clicker.zip/file")
-    elif chon == '41.3':
-        webbrowser.open_new("https://www.mediafire.com/file/sv8gtcxv0tw856u/SlinkyClicker.zip/file")
-    elif chon == '42.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ppcnz7xtm1nyo99/Kaos.zip/file")
-    elif chon == '43.3':
-        webbrowser.open_new("https://www.mediafire.com/file/36pivhz2sdihp5w/Loop_Clicker.zip/file")
-    elif chon == '44.3':
-        webbrowser.open_new("https://www.mediafire.com/file/lju5urvsohxge66/Mango.zip/file")
-    elif chon == '45.3':
-        webbrowser.open_new("https://www.mediafire.com/file/t7nlxh8ewwz63z1/Mango_Lite.zip/file")
-    elif chon == '46.3':
-        webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZWYhuZMj5Sd2MFvELUK3UCKjiY402oA22X")
-    elif chon == '47.3':
-        webbrowser.open_new("https://mega.nz/file/AiEi1KoI#vYVqC6gLZdTqw52KCFFOJoEnvNVO6F3Zy5hNQd2TGJA")
-    elif chon == '48.3':
-        webbrowser.open_new(
-            "https://cdn.discordapp.com/attachments/1187575411849302056/1187575444652957828/Hidden_Clicker_ssverify.bar.zip?ex=659762d2&is=6584edd2&hm=d7a57fd14433886bb648774508095a7aa28c342decaa241b23c0b16decf48770&")
-    elif chon == '49.3':
-        webbrowser.open_new("https://www.mediafire.com/file/da3ef52a94980xe/Ozixx.zip/file")
-    elif chon == '50.3':
-        webbrowser.open_new("https://www.mediafire.com/file/3041pnwqmp61v5b/Xanax.zip/file")
-    elif chon == '51.3':
-        webbrowser.open_new("https://www.mediafire.com/file/3wif399gpnrnam7/Rupol.zip/file")
-    elif chon == '52.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6dpdkzd3lj0ayqr/Rivals.zip/file")
-    elif chon == '53.3':
-        webbrowser.open_new("https://www.mediafire.com/file/91icjl7swzn6by2/Sarm_Private.zip/file")
-    elif chon == '54.3':
-        webbrowser.open_new("https://www.mediafire.com/file/box0azo17ua67ck/Soy.zip/file")
-    elif chon == '55.3':
-        webbrowser.open_new("https://www.mediafire.com/file/16rq106jwaomv2t/Spark.zip/file")
-    elif chon == '56.3':
-        webbrowser.open_new("https://www.mediafire.com/file/7q9dm8fk5nsq9mu/Spotify.zip/file")
-    elif chon == '57.3':
-        webbrowser.open_new("https://www.mediafire.com/file/0vygq1qjcmynzxf/Scatter.zip/file")
-    elif chon == '58.3':
-        webbrowser.open_new("https://www.mediafire.com/file/l3o9bukn7czdm2a/Murphy_Clicker.zip/file")
-    elif chon == '59.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bxzdhfesvnjtx6b/Radon.zip/file")
-    elif chon == '60.3':
-        webbrowser.open_new("https://www.mediafire.com/file/e0gzudgkyq4wp2r/Taca_Clicker.zip/file")
-    elif chon == '61.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6uog8h8i9amhwom/Sigma_Clicker.rar/file")
-    elif chon == '62.3':
-        webbrowser.open_new("https://www.mediafire.com/file/wvl51bs1ellj0hb/Comet_Recorder.rar/file")
-    elif chon == '63.3':
-        webbrowser.open_new("https://www.mediafire.com/file/7gon524v99bygac/Ghetto_Clicker.rar/file")
-    elif chon == '64.3':
-        webbrowser.open_new("https://www.mediafire.com/file/jnlfvujc3utkt8c/Brazilian.zip/file")
-    elif chon == '65.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bjpyxee8sjgwgy3/Bhop.zip/file")
-    elif chon == '66.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6g4d9l2gx2lqbo2/Flare.zip/file")
-    elif chon == '67.3':
-        webbrowser.open_new("https://www.mediafire.com/file/mqp654jmflea89x/sylph.zip/file")
-    elif chon == '68.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6uog8h8i9amhwom/Sigma_Clicker.rar/file")
-    elif chon == '69.3':
-        webbrowser.open_new("https://www.mediafire.com/file/wvl51bs1ellj0hb/Comet_Recorder.rar/file")
-    elif chon == '70.3':
-        webbrowser.open_new("https://www.mediafire.com/file/7gon524v99bygac/Ghetto_Clicker.rar/file")
-    elif chon == '71.3':
-        webbrowser.open_new("https://www.mediafire.com/file/jnlfvujc3utkt8c/Brazilian.zip/file")
-    elif chon == '72.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bjpyxee8sjgwgy3/Bhop.zip/file")
-    elif chon == '73.5':
-        webbrowser.open_new("https://www.mediafire.com/file/qvci7hzpbtk6sr1/Broxa.zip/file")
-    elif chon == '74.5':
-        webbrowser.open_new("https://www.mediafire.com/file/fy4mzoefhp7p2s1/Cloud.zip/file")
-    elif chon == '75.5':
-        webbrowser.open_new("https://www.mediafire.com/file/n5lzc1rlndq32ab/Lustful_Clicker.zip/file")
-    elif chon == '76.3':
-        webbrowser.open_new("https://www.mediafire.com/file/4w2g8b7lfwxqmna/Medusa.rar/file")
-    elif chon == '77.3':
-        webbrowser.open_new("https://www.mediafire.com/file/1habwt362tfxme0/v0_Clicker.zip/file")
-    elif chon == '78.3':
-        webbrowser.open_new("https://lootdest.info/s?ezZW")
-    elif chon == '79.3':
-        webbrowser.open_new("https://www.mediafire.com/file/tjky89zjkhi6zsn/Weyn_Clicker.zip/file")
-    elif chon == '80.3':
-        webbrowser.open_new("https://www.mediafire.com/file/hjcpmp88sgv1dhi/Wok.zip/file")
-    elif chon == '81.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bsnmrsbr6bcnmjh/N0le_Private_Clicker.zip/file")
-    elif chon == '82.3':
-        webbrowser.open_new("https://www.mediafire.com/file/j3uh2mxtoftg106/Nemesis.zip/file")
-    elif chon == '83.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ufge7h3007baijo/Luka.zip/file")
-    elif chon == '84.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bwgea8rmxjyornk/Knockoff_%2528Deez%2529.zip/file")
-    elif chon == '85.3':
-        webbrowser.open_new("https://www.mediafire.com/file/r9umvoxwhymcmll/Lizard.zip/file")
-    elif chon == '86.3':
-        webbrowser.open_new("https://www.mediafire.com/file/4wis72h3g902xyy/Hyper.zip/file")
-    elif chon == '87.3':
-        webbrowser.open_new("https://www.mediafire.com/file/posxz0wq9ixqn6g/Every0xgay.zip/file")
-    elif chon == '88.3':
-        webbrowser.open_new("https://www.mediafire.com/file/cmsd87o50n1m3vo/Glassware.zip/file")
-    elif chon == '89.3':
-        webbrowser.open_new("https://www.mediafire.com/file/m7gr9imoeou3jbf/Gonral.zip/file")
-    elif chon == '90.3':
-        webbrowser.open_new("https://www.mediafire.com/file/iqlk8lthe181fzh/FRT_Clicker.rar/file")
-    elif chon == '91.3':
-        webbrowser.open_new("https://www.mediafire.com/file/l0k8yra1le4heme/Gamesense.zip/file")
-    elif chon == '92.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ti09indea1x2xo5/Blueberry.zip/file")
-    elif chon == '93.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ri4q1fnloewwzpk/BPAZ.rar/file")
-    elif chon == '94.3':
-        webbrowser.open_new("https://www.mediafire.com/file/iv41lf63a63uvi1/Buxh.zip/file")
-    elif chon == '95.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ppfvtv1599lnyqy/Bok_Clicker.zip/file")
-    elif chon == '96.3':
-        webbrowser.open_new("https://www.mediafire.com/file/qvci7hzpbtk6sr1/Broxa.zip/file")
-    elif chon == '97.3':
-        webbrowser.open_new("https://www.mediafire.com/file/e090i7vmim357yl/Rehub.zip/file")
-    elif chon == '98.3':
-        webbrowser.open_new("https://www.mediafire.com/file/l6p7qzqn425tzlr/Ripz.zip/file")
-    elif chon == '99.3':
-        webbrowser.open_new("https://www.mediafire.com/file/jw0ivpukgp5hj0i/Saluz.zip/file")
-    elif chon == '100.3':
-        webbrowser.open_new("https://www.mediafire.com/file/kpi13z4d74hvv9o/Reak.zip/file")
-    elif chon == '101.3':
-        webbrowser.open_new("https://www.mediafire.com/file/plny5zv2b0kcjf8/Boris_Clicker.zip/file")
-    elif chon == '102.3':
-        webbrowser.open_new("https://www.mediafire.com/file/uil6142t6hpu8zn/Bottle.zip/file")
-    elif chon == '103.3':
-        webbrowser.open_new("https://mega.nz/file/3YBCTZDT#rUmjYom9YGXdtH7Ru_PCQEEV2VoWQviGUjGGKyV9Ixk")
-    elif chon == '104.3':
-        webbrowser.open_new("https://www.mediafire.com/file/xog6mg51ry0gg60/Chronic_Clicker.zip/file")
-    elif chon == '105.3':
-        webbrowser.open_new("https://www.mediafire.com/file/k8eicdwogtawtxt/Dorflexx.zip/file")
-    elif chon == '106.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6m03ia6gqd5i2ln/Gard.zip/file")
-    elif chon == '107.3':
-        webbrowser.open_new("https://www.mediafire.com/file/da3o73dqa1f3gg2/Granada_Clicker.zip/file")
-    elif chon == '108.3':
-        webbrowser.open_new("https://www.mediafire.com/file/235zlljjls7ew9l/Humanoid_Clicker.zip/file")
-    elif chon == '109.3':
-        webbrowser.open_new("https://www.mediafire.com/file/op9do10ckl04h89/Illusion.zip/file")
-    elif chon == '110.3':
-        webbrowser.open_new("https://www.mediafire.com/file/yl0xb2qnbp5bood/Ispo.zip/file")
-    elif chon == '111.3':
-        webbrowser.open_new("https://www.mediafire.com/file/jj8zjq97eesvkyj/Itori.zip/file")
-    elif chon == '112.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bwgea8rmxjyornk/Knockoff_%2528Deez%2529.zip/file")
-    elif chon == '113.3':
-        webbrowser.open_new("https://mega.nz/file/OBJhhADB#-v52pJlz8NCeqhlpQ5SQvQlTI_W66pNJqxjloqwobjM")
-    elif chon == '114.3':
-        webbrowser.open_new("https://www.mediafire.com/file/da48k4po137urv3/Ligma.zip/file")
-    elif chon == '115.3':
-        webbrowser.open_new("https://www.mediafire.com/file/xzqs4skz71zanvg/Lovie.zip/file")
-    elif chon == '116.3':
-        webbrowser.open_new("https://www.mediafire.com/file/n81woej29wxy03b/Luka.me.zip/file")
-    elif chon == '117.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ufge7h3007baijo/Luka.zip/file")
-    elif chon == '118.3':
-        webbrowser.open_new("https://www.mediafire.com/file/12h5t5xtgq3eklv/Monolith_Lite.zip/file")
-    elif chon == '119.3':
-        webbrowser.open_new("https://www.mediafire.com/file/3s0fd1tgu3xhlsf/Nano_Clicker.zip/file")
-    elif chon == '120.3':
-        webbrowser.open_new("https://www.mediafire.com/file/bmsah5y8m9ql5w5/Neo_Lite.zip/file")
-    elif chon == '121.3':
-        webbrowser.open_new("https://www.mediafire.com/file/b5g53dtskmig4lb/NigClicker.zip/file")
-    elif chon == '122.3':
-        webbrowser.open_new("https://www.mediafire.com/file/n0mata408gdwkxl/Nite_Clicker.zip/file")
-    elif chon == '123.3':
-        webbrowser.open_new("https://www.mediafire.com/file/6uw0k2ncnferotx/No_Bypass.zip/file")
-    elif chon == '124.3':
-        webbrowser.open_new("https://www.mediafire.com/file/5p5l4enbfios9m0/Paf.zip/file")
-    elif chon == '125.3':
-        webbrowser.open_new("https://www.mediafire.com/file/oip03jj1xghmbwi/Plasmoware.zip/file")
-    elif chon == '126.3':
-        webbrowser.open_new("https://www.mediafire.com/file/sd1m7w1i3uzk08n/Rapist.zip/file")
-    elif chon == '127.3':
-        webbrowser.open_new("https://www.mediafire.com/file/d7is2ymb2hersva/Thrax.zip/file")
-    elif chon == '128.3':
-        webbrowser.open_new("https://www.mediafire.com/file/63dulg2q318v9j0/Wszz.zip/file")
-    elif chon == '129.3':
-        webbrowser.open_new("https://www.mediafire.com/file/ixg32te936hf6hp/Yeet.zip/file")
-    elif chon == '130.3':
-        webbrowser.open_new("https://www.mediafire.com/file/fhcbgd6vkcbwjov/Yukio_Clicker.zip/file")
-    elif chon == '1.4':
-        webbrowser.open_new("https://www.mediafire.com/file/93ornlwzb5ygi9d/AAC-5.2.0.jar/file")
-    elif chon == '2.4':
-        webbrowser.open_new("https://www.mediafire.com/file/b6bkkxg3mm963a7/AAC.5.2.1.jar/file")
-    elif chon == '3.4':
-        webbrowser.open_new("https://anotepad.com/notes/d9pkni2f")
-    elif chon == '4.4':
-        webbrowser.open_new("https://www.mediafire.com/file/iwfx4s9srhpqq4l/Intave.v12.5.4-b1.jar/file")
-    elif chon == '5.4':
-        webbrowser.open_new("https://www.mediafire.com/file/tqaixvupk44cq1i/cerebrus_anticheat.jar/file")
-    elif chon == '6.4':
-        webbrowser.open_new("https://www.mediafire.com/file/zltmzf4makbohno/DakataAntiCheat-_ED.jar/file")
-    elif chon == '7.4':
-        webbrowser.open_new("https://www.mediafire.com/file/w66zg77cjn4gch0/GodsEye.b53.jar/file")
-    elif chon == '8.4':
-        webbrowser.open_new("https://www.mediafire.com/file/11627q78uw1tyo0/Kauri.zip/file")
-    elif chon == '9.4':
-        webbrowser.open_new("https://www.mediafire.com/file/h6ijs3qczkew1cr/KauriB41.zip/file")
-    elif chon == '10.4':
-        webbrowser.open_new("https://www.mediafire.com/file/cjy3ggcmsw17zt3/Lighter.zip/file")
-    elif chon == '11.4':
-        webbrowser.open_new("https://www.mediafire.com/file/ef1zdohc60vk9kp/Reflex.zip/file")
-    elif chon == '12.4':
-        webbrowser.open_new("https://www.mediafire.com/file/z9c3hny4i641ztf/Tk.zip/file")
-    elif chon == '13.4':
-        webbrowser.open_new("https://www.mediafire.com/file/c9lerxv31r7c1df/Spartan.zip/file")
-    elif chon == '14.4':
-        webbrowser.open_new("https://www.mediafire.com/file/v2gfgwrdutcrfts/Sparten.zip/file")
-    elif chon == '15.4':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1129416989576802385/1135051867404120104/Buzz.rar")
-    elif chon == '16.4':
-        webbrowser.open_new("https://www.mediafire.com/file/9l3pce0rld3bpop/Z.zip/file")
-    elif chon == '17.4':
-        webbrowser.open_new("https://www.mediafire.com/file/is444u9qj4qmint/Doggy.zip/file")
-    elif chon == '18.4':
-        webbrowser.open_new("https://www.mediafire.com/file/qgp9dhyocsj8zsh/Sparky.zip/file")
-    elif chon == '19.4':
-        webbrowser.open_new("https://www.mediafire.com/file/lsu1d7x6k8lvoh2/RandomAnticheat.zip/file")
-    elif chon == '20.4':
-        webbrowser.open_new("https://www.mediafire.com/file/qo6d6airhycy2f9/JI.zip/file")
-    elif chon == '21.4':
-        webbrowser.open_new("https://www.mediafire.com/file/tzi37vuo69rst91/AnticheatReloaded.zip/file")
-    elif chon == '22.4':
-        webbrowser.open_new("https://www.mediafire.com/file/is9bc9125ckpy49/Exploit.zip/file")
-    elif chon == '23.4':
-        webbrowser.open_new("https://www.spigotmc.org/resources/nocheatplus.26/download?version=202806")
-    elif chon == '24.4':
-        webbrowser.open_new("https://www.mediafire.com/file/c44vodgs3h5zjfk/New+WinRAR+ZIP+archive.zip/file")
-    elif chon == '25.4':
-        webbrowser.open_new("https://www.mediafire.com/file/macauwfkpwp30oc/Authme.zip/file")
-    elif chon == '26.4':
-        webbrowser.open_new("https://www.mediafire.com/file/gapa4h618xzts55/HaxEdit.zip/file")
-    elif chon == '27.4':
-        webbrowser.open_new("https://www.mediafire.com/file/y6myj2y9pl51akt/NTE.zip/file")
-    elif chon == '28.4':
-        webbrowser.open_new("https://www.mediafire.com/file/hj51mki9tbig73z/LC.zip/file")
-    elif chon == '29.4':
-        webbrowser.open_new("https://www.mediafire.com/file/gal5hq5e65qmi6p/PP.zip/file")
-    elif chon == '30.4':
-        webbrowser.open_new("https://www.mediafire.com/file/ls9x23d9skwfziu/Via.zip/file")
-    elif chon == '31.4':
-        webbrowser.open_new("https://www.mediafire.com/file/2wo4hsfr4rdtxhv/antigamingchair_2.rar/file")
-    elif chon == '32.4':
-        webbrowser.open_new("https://www.mediafire.com/file/859ppu1a9sbnmx5/Vulcan-2.8.7.jar/file")
-    elif chon == '33.4':
-        webbrowser.open_new("https://www.mediafire.com/file/deou17a7691qckz/Verus-b4161.jar/file")
-    elif chon == '34.4':
-        webbrowser.open_new("https://github.com/TawnyE/truthful-anticheat")
-    elif chon == '35.4':
-        webbrowser.open_new("https://www.mediafire.com/file/uo59y1dshuw4wvf/Warden-Release-R1.2.jar/file")
-    elif chon == '36.4':
-        webbrowser.open_new("https://www.mediafire.com/file/0esm9pk8pyipihb/Wraith_2.3.5c.jar/file")
-    elif chon == '37.4':
-        webbrowser.open_new("https://www.mediafire.com/file/hlxoc38dolagbi4/NoMoreCheat%252B.jar/file")
-    elif chon == '38.4':
-        webbrowser.open_new("https://www.mediafire.com/file/r75dh2k5cypgdyt/NovaDetector.zip/file")
-    elif chon == '39.4':
-        webbrowser.open_new("https://www.mediafire.com/file/zuj63926vk5azuj/NESS-Reloaded.jar/file")
-    elif chon == '40.4':
-        webbrowser.open_new("https://www.mediafire.com/file/5snd58uw75oganx/Matrix_7.5.1.jar/file")
-    elif chon == '41.4':
-        webbrowser.open_new("https://www.mediafire.com/file/sh6wfdxgsvn94kt/grimac-2.3.49-patch1.jar/file")
-    elif chon == '42.4':
-        webbrowser.open_new("https://www.mediafire.com/file/lhjmuwz5nhd8q1m/FrequencyPlus.jar/file")
-    elif chon == '43.4':
-        webbrowser.open_new("https://www.mediafire.com/file/4vg5mgr2781sasf/easy-cheat-detection-1.1.0.jar/file")
-    elif chon == '44.4':
-        webbrowser.open_new("https://www.mediafire.com/file/jfwvfvnahfbftnu/FlappyAnticheat-1.7.8-BETA.jar/file")
-    elif chon == '45.4':
-        webbrowser.open_new("https://www.mediafire.com/file/loe0vjr8b69tzlh/Ghostly_AntiCheat_legit_verus_lmao.jar/file")
-    elif chon == '46.4':
-        webbrowser.open_new("https://www.mediafire.com/file/hm8l51adtfaoi2l/AntiHaxerman.jar/file")
-    elif chon == '47.4':
-        webbrowser.open_new("https://www.mediafire.com/file/5ald4ovzxtpccf3/Hades.jar/file")
-    elif chon == '48.4':
-        webbrowser.open_new("https://www.mediafire.com/file/tqagz2vmh0gaazg/Intave-14.5.6.jar/file")
-    elif chon == '49.4':
-        webbrowser.open_new("https://github.com/splatboydev/Degrade")
-    elif chon == '1.5':
-        webbrowser.open_new("https://www.mediafire.com/file/zamuavediau7jdg/grand0x_private_source.zip/file")
-    elif chon == '2.5':
-        webbrowser.open_new("https://www.mediafire.com/file/7xbrqq1khuvu6eh/intave_src.zip/file")
-    elif chon == '3.5':
-        webbrowser.open_new("https://www.mediafire.com/file/pux0fhrh9q1aimu/rise_6.0_source.zip/file")
-    elif chon == '4.5':
-        webbrowser.open_new("https://www.mediafire.com/file/dubvd8udfi1miyk/vape_lite_assets.zip/file")
-    elif chon == '5.5':
-        webbrowser.open_new("https://www.mediafire.com/file/1b75bmlaiqacb9v/vape_v4.07_deobf_strings_%252B_assets_%252B_dll_file.zip/file")
-    elif chon == '6.5':
-        webbrowser.open_new("https://www.mediafire.com/file/o0qp7k57f9opa9s/MMC_Rank_Core.jar/file")
-    elif chon == '7.5':
-        webbrowser.open_new("https://www.mediafire.com/file/x0jitg55fo9hfss/CheatBreaker_HUD_1.7.10.jar/file")
-    elif chon == '8.5':
-        webbrowser.open_new("https://www.mediafire.com/folder/6ax7sahffo42l/clumsy_0.5")
-    elif chon == '9.5':
-        webbrowser.open_new("https://www.mediafire.com/file/k0iibnqnzqiuixp/Client_Strings_Leaked_by_Whatify.txt/file")
-    elif chon == '10.5':
-        webbrowser.open_new("https://www.mediafire.com/file/2wo4hsfr4rdtxhv/antigamingchair_2.rar/file")
-    elif chon == '11.5':
-        webbrowser.open_new("https://www.mediafire.com/file/5628d696dmla7ka/Leaked.zip/file")
-    elif chon == '12.5':
-        webbrowser.open_new("https://anotepad.com/notes/c7am8984")
-    elif chon == '13.5':
-        webbrowser.open_new("https://www.mediafire.com/file/0xy267fdix9u3x8/Void.zip/file")
-    elif chon == '14.5':
-        webbrowser.open_new("https://www.mediafire.com/file/0ye5f0ys74bebin/AntiOP.zip/file")
-    elif chon == '15.5':
-        webbrowser.open_new("https://www.mediafire.com/file/vj8wodo9yq8j2jx/Drip_Remade_Loader.exe/file")
-    elif chon == '16.5':
-        webbrowser.open_new("https://www.mediafire.com/file/fzkswm766mu35dz/Katana_SS_Tool.zip/file")
-    elif chon == '17.5':
-        webbrowser.open_new(
-            "https://www.mediafire.com/file/k8j9gk0ua6zohb0/Dream_Bypass_Guide_%2528LATEST_LEAK%2529.docx/file")
-    elif chon == '18.5':
-        webbrowser.open_new("https://www.mediafire.com/file/unplbx3dlyjivu5/Blockhit_Priority_Macro.zip/file")
-    elif chon == '19.5':
-        webbrowser.open_new("https://anotepad.com/notes/yscy8gff")
-    elif chon == '20.5':
-        webbrowser.open_new("https://www.mediafire.com/file/bq01a8duxctp5b9/AutoJumpReset_mod.rar/file")
-    elif chon == '21.5':
-        webbrowser.open_new("https://www.mediafire.com/file/qn800c9it2pgb25/HWID_Spoofer.rar/file")
-    elif chon == '22.5':
-        webbrowser.open_new("https://www.mediafire.com/file/hzrbbsi0dp44907/nametags_mod_1.7.10.jar/file")
-    elif chon == '23.5':
-        webbrowser.open_new("https://www.mediafire.com/file/eo4sk7x7da82vk1/replaymod-1.8.9-2.6.5.jar/file")
-    elif chon == '24.5':
-        webbrowser.open_new("https://www.mediafire.com/file/skr6qa5lqt9a2c7/VeggieSSTool.bat/file")
-    elif chon == '25.5':
-        webbrowser.open_new("https://www.mediafire.com/file/uuq9x6msh60m9y4/Ryu.zip/file")
-    elif chon == '26.5':
-        webbrowser.open_new("https://www.mediafire.com/file/9a947o2rx0by9im/TankV4_Codigo.rar/file")
-    elif chon == '27.5':
-        webbrowser.open_new("https://github.com/SlickJava/tomato")
-    elif chon == '28.5':
-        webbrowser.open_new("https://workupload.com/file/xmc2NKePCLe")
-    elif chon == '29.5':
-        webbrowser.open_new("https://workupload.com/file/xmc2NKePCLe")
-    elif chon == '30.5':
-        webbrowser.open_new("https://www.mediafire.com/file/by6mp5deld5ubh4/Astolfo_%2528deobfuscated%2529.zip/file")
-    elif chon == '31.5':
-        webbrowser.open_new("https://www.mediafire.com/file/o6xu1x9gtvkowfj/Easier-Crafting-Mod-1.12.2.jar/file")
-    elif chon == '32.5':
-        webbrowser.open_new("https://www.mediafire.com/file/wooc9504fbxrm0f/%255B1.7.10%255DHideNametagsMod-1.0.jar/file")
-    elif chon == '33.5':
-        webbrowser.open_new("https://www.mediafire.com/file/ghzqhaqnbxd3gnu/Optimize+Pack.zip/file")
-    elif chon == '34.5':
-        webbrowser.open_new("https://www.mediafire.com/file/7jtn31biaovehwk/ip-list.txt/file")
-    elif chon == '35.5':
-        webbrowser.open_new("https://github.com/WonderlandLibrary/wonderlandlibrary/tree/main/sources/Jello%200.1")
-    elif chon == '36.5':
-        webbrowser.open_new("https://github.com/Spinyfish/Client-Hall-Of-Fame/tree/main/leaks/Jinthium/Felix")
-    elif chon == '37.5':
-        webbrowser.open_new("https://gitlab.com/Arithmo/Sigma")
-    elif chon == '38.5':
-        webbrowser.open_new("https://mega.nz/file/cNNgGQoB#9pkplFX-ZwLJ7FR1FKZ3SbQ4uPjJOFp_xEUeBUHKPq4")
-    elif chon == '39.5':
-        webbrowser.open_new("https://github.com/deadLORD135/losebypass-reup")
-    elif chon == '40.5':
-        webbrowser.open_new("https://www.mediafire.com/file/vybd82ykj34o2du/Optimize+++Reach+reg.zip/file")
-    elif chon == '41.5':
-        webbrowser.open_new("https://www.mediafire.com/file/geh2gp8swe2c6jp/Vape.gg_Website.zip/file")
-    elif chon == '42.5':
-        webbrowser.open_new("https://www.mediafire.com/file/gy7mztbyxm6jz54/misplace.txt/file")
-    elif chon == '43.5':
-        webbrowser.open_new("https://www.mediafire.com/file/v22nyjjsg38355w/vape_v4.10_source_%2B_compiled.zip/file")
-    elif chon == '44.5':
-        webbrowser.open_new("https://github.com/Spinyfish/Client-Hall-Of-Fame/tree/main/leaks/Jinthium/Felix")
-    elif chon == '45.5':
-        webbrowser.open_new("https://github.com/RE-KevinClient/KevinClient-Reborn")
-    elif chon == '46.5':
-        webbrowser.open_new("https://github.com/WonderlandLibrary/wonderlandlibrary/tree/main/sources/Atani")
-    elif chon == '47.5':
-        webbrowser.open_new("https://github.com/Endemic1337/Blue-Zenith")
-    elif chon == '48.5':
-        webbrowser.open_new("https://www.mediafire.com/file/mku43l2677h3moi/Exire.zip/file")
-    elif chon == '49.5':
-        webbrowser.open_new("https://github.com/JonnyOnlineYT/xenza")
-    elif chon == '50.5':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187037173418053632/1187037175699742861/ketamine-src.zip?ex=65956d84&is=6582f884&hm=1c516973067a53340ae15f51397d26013aafbaa3aa1098ea8f51b65f1d250591&")
-    elif chon == '51.5':
-        webbrowser.open_new("https://cdn.discordapp.com/attachments/1187037173418053632/1187037175238373427/radium-src.zip?ex=65956d84&is=6582f884&hm=039bb05f4dfc2c42c3d6e30fec87e77a54c9661d286db76e45a1dc440d74742a&")
-    elif chon == '52.5':
-        webbrowser.open_new("https://www.mediafire.com/file/oh0r4pro19u0cmd/AtField+1.3.zip/file")
-    elif chon == '53.5':
-        webbrowser.open_new("https://www.mediafire.com/file/4qd8wf56jrfqafg/GoldGrinder.zip/file")
-    elif chon == '54.5':
-        webbrowser.open_new("https://www.masterof13fps.com/forum/threads/rise-6-1-25-beta-deobfuscated.8975/")
-    elif chon == '55.5':
-        webbrowser.open_new("https://www.mediafire.com/file/mtw1phcryjxlumh/AutoSprintReset.rar/file")
-    elif chon == '56.5':
-        webbrowser.open_new("https://www.mediafire.com/file/bq01a8duxctp5b9/AutoJumpReset_mod.rar/file")
-    elif chon == '57.5':
-        webbrowser.open_new("https://www.mediafire.com/file/308bsgdeplneflu/TNTSumo.zip/file")
-    elif chon == '58.5':
-        webbrowser.open_new("https://www.mediafire.com/file/n4o6fo0t9ypffm4/NoJumpDelay.rar/file")
-    elif chon == '59.5':
-        webbrowser.open_new("https://github.com/lime-client/Lime")
-    elif chon == '60.5':
-        webbrowser.open_new("https://workupload.com/archive/K2FRCFqKQB")
-    elif chon == '61.5':
-        webbrowser.open_new("https://www.mediafire.com/file/o1uq0gi12tf79a9/Radium.zip/file")
-    elif chon == '62.5':
-        webbrowser.open_new("https://www.mediafire.com/file/vvdosswh1k3f7g1/PuppyClient.zip/file")
-    elif chon == '63.5':
-        webbrowser.open_new("https://www.mediafire.com/file/l2z9boafiiufart/Aura+Clicker.rar/file")
-    elif chon == '64.5':
-        webbrowser.open_new("https://www.mediafire.com/file/arq0o4b8i1mz8r0/Artemis+1.0.rar/file")
-    elif chon == '65.5':
-        webbrowser.open_new("https://www.mediafire.com/file/1ja4w1ttg4wbtsj/3arthh4ck+1.0.0.zip/file")
-    elif chon == '66.5':
-        webbrowser.open_new("https://www.mediafire.com/file/gbhvwsk2vblhebt/Aether+5.5.rar/file")
-    elif chon == '67.5':
-        webbrowser.open_new("https://www.mediafire.com/file/g1bbxcu30qfhlrr/Alpha+Centauri+B6.rar/file")
-    elif chon == '68.5':
-        webbrowser.open_new("https://www.mediafire.com/file/gbhtfpsh8kffgso/Exhibition+5.0.rar/file")
-    elif chon == '69.5':
-        webbrowser.open_new("https://www.mediafire.com/file/kctxuf0c9upgjgp/Mark's+ClientBase.zip/file")
-    elif chon == '70.5':
-        webbrowser.open_new("https://www.mediafire.com/file/v5eb47z3evxfbt2/Augustus+b2.6.rar/file")
-    elif chon == '71.5':
-        webbrowser.open_new("https://www.mediafire.com/file/tfcq3zyyakxdn33/Celestial+Premium+6.0.rar/file")
-    elif chon == '72.5':
-        webbrowser.open_new("https://www.mediafire.com/file/fvr4ghv0s01uscw/Alphentus+1D.rar/file")
-    elif chon == '73.5':
-        webbrowser.open_new("https://www.mediafire.com/file/8lrq7ukhvtdz26f/Actinium.rar/file")
-    elif chon == '74.5':
-        webbrowser.open_new("https://www.mediafire.com/file/oge4iwquxyefzsd/Fanta+Clicker.zip/file")
-    elif chon == '75.5':
-        webbrowser.open_new("https://www.mediafire.com/file/x5o91rx2bx0ngq0/Cooper+Beta+b1.3.zip/file")
-    elif chon == '76.5':
-        webbrowser.open_new("https://www.mediafire.com/file/jqyeihz98ll1lbw/Clowdy+Lite.zip/file")
-    elif chon == '77.5':
-        webbrowser.open_new("https://www.mediafire.com/file/bcpakde41ynj5h8/Eternal+3.0.0.zip/file")
-    elif chon == '78.5':
-        webbrowser.open_new("https://www.mediafire.com/file/gvtfiv7gvwk6tyc/GameSense+v2.1.0.zip/file")
-    elif chon == '79.5':
-        webbrowser.open_new("https://www.mediafire.com/file/ax29r325ijiuuj2/GameSense+v2.3.0.zip/file")
-    elif chon == '80.5':
-        webbrowser.open_new("https://www.mediafire.com/file/g0kt43ig3y2vxfc/Exodus+5.4.zip/file")
-    elif chon == '81.5':
-        webbrowser.open_new("https://www.mediafire.com/file/zn6bxt5tab95vgm/Horizon+6.0.zip/file")
-    elif chon == '82.5':
-        webbrowser.open_new("https://www.mediafire.com/file/de1twzs1by1etr4/Hush+B4.zip/file")
-    elif chon == '83.5':
-        webbrowser.open_new("https://www.mediafire.com/file/p21lgqmx23j1fbo/GetBypass+b1.0.zip/file")
-    elif chon == '84.5':
-        webbrowser.open_new("https://www.mediafire.com/file/q9nh7ygxcmdj6vp/Euphoria+B7.zip/file")
-    elif chon == '85.5':
-        webbrowser.open_new("https://www.mediafire.com/file/g0thl5fydsj9en1/DietrichPaul's+ClientBase.zip/file")
-    elif chon == '86.5':
-        webbrowser.open_new("https://www.mediafire.com/file/m0nskl3vg6algd6/Dortware+1.5.0.zip/file")
-    elif chon == '87.5':
-        webbrowser.open_new("https://www.mediafire.com/file/lelikw6cfvlg6fi/GetBypass+a1.0.zip/file")
-    elif chon == '88.5':
-        webbrowser.open_new("https://www.mediafire.com/file/yrma17p85kg3881/Juul+1.0.zip/file")
-    elif chon == '89.5':
-        webbrowser.open_new("https://www.mediafire.com/file/qjngasjlmsr3wmz/Elysium+b1.zip/file")
-    elif chon == '90.5':
-        webbrowser.open_new("https://www.mediafire.com/file/fqfwklesnevyzkt/Jello+0.1.zip/file")
-    elif chon == '91.5':
-        webbrowser.open_new("https://www.mediafire.com/file/99hn6xkz4m60inq/Flux+B39.11.zip/file")
-    elif chon == '92.5':
-        webbrowser.open_new("https://www.mediafire.com/file/ywj1u8kgc1junoo/raid0-src.zip/file")
-    elif chon == '93.5':
-        webbrowser.open_new("https://www.mediafire.com/file/r7avg3eu84o3afi/Cloud+1.1.zip/file")
-    elif chon == '94.5':
-        webbrowser.open_new("https://www.mediafire.com/file/12f3zgonyjx8swe/Deluge+0.23.zip/file")
-    elif chon == '95.5':
-        webbrowser.open_new("https://www.mediafire.com/file/um0ku2ykzq5xwqx/Icarus+B15.zip/file")
-    elif chon == '96.5':
-        webbrowser.open_new("https://drive.google.com/file/d/1Ov5r2uUWV0LICUZHWsjrVfdlDcl4JjUC/view?usp=sharing")
-    elif chon == '1.6':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/seppuku.jar")
-    elif chon == '2.6':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/lambda-3.3.0.jar")
-    elif chon == '3.6':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/3arthh4ck.jar")
-    elif chon == '4.6':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/phobos.jar")
-    elif chon == '5.6':
-        webbrowser.open_new("https://mimhax.netlify.app/Files/gamesense.jar")
-    elif chon == '6.6':
-        webbrowser.open_new("https://www.mediafire.com/file/iygm6xr048h6hwi/SkidHook.zip/file")
-    elif chon == '7.6':
-        webbrowser.open_new("https://www.mediafire.com/file/n7ql34fsdh1dunc/Kami_Blue.zip/file")
-    elif chon == '8.6':
-        webbrowser.open_new("https://www.mediafire.com/file/gvhbodvtv7f92si/Phobos.zip/file")
-    elif chon == '9.6':
-        webbrowser.open_new("https://www.mediafire.com/file/v13vf47qe6d7xcp/zamozorka.zip/file")
-    elif chon == '10.6':
-        webbrowser.open_new("https://www.mediafire.com/file/5dr1s5s63m6gs35/Cosmos+(2).zip/file")
-    elif chon == '11.6':
-        webbrowser.open_new("https://www.mediafire.com/file/oa47cls6r7oucun/blackout.zip/file")
-    elif chon == '12.6':
-        webbrowser.open_new("https://www.mediafire.com/file/5okjk2a914z18ir/Abyss.zip/file")
-    elif chon == '13.6':
-        webbrowser.open_new("https://gitlab.com/Aristois/Installer/builds/artifacts/master/raw/packager/Aristois-Free.jar?job=build")
-    elif chon == '14.6':
-        webbrowser.open_new("https://workupload.com/file/6MmDFG3vGgj")
-    elif chon == '15.6':
-        webbrowser.open_new("https://www.mediafire.com/file/7e39w4r6qkloljd/Shoreline.zip/file")
-    else:
-        continue
+    match chon:
+        case '-':
+            os.system('cls')
+            print("Now entering : SSTool")
+            exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/SSTool').text)
+        case '1.1':
+            exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Vape').text)
+        case '2.1':
+            webbrowser.open_new("https://www.mediafire.com/file/1ogrrrao7vkef7s/Blossom.zip/file")
+        case '3.1':
+            webbrowser.open_new("https://www.mediafire.com/file/ufktd90e503p7cb/drim.zip/file")
+        case '4.1':
+            webbrowser.open_new("https://www.mediafire.com/file/asd0skn12pgur93/Slap.zip/file")
+        case '5.1':
+            webbrowser.open_new("https://www.mediafire.com/file/890qfvw73k97qll/Whiteout_V2.3.zip/file")
+        case '6.1':
+            webbrowser.open_new("https://www.mediafire.com/file/p43x2u7j2428y4c/eternal_internal.dll/file")
+        case '7.1':
+            webbrowser.open_new("https://www.mediafire.com/file/znnwsj939jlby2g/Koid.zip/file")
+        case '8.1':
+            webbrowser.open_new("https://www.mediafire.com/file/tnqrduaaqyu9fn8/Zoomin.zip/file")
+        case '9.1':
+            webbrowser.open_new("https://www.mediafire.com/file/hrls1h4mp516fy7/Luvsy_Ghost_v1.0.zip/file")
+        case '10.1':
+            webbrowser.open_new("https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file")
+        case '11.1':
+            webbrowser.open_new("https://www.mediafire.com/file/gh4y87z2ybgvc9x/1.8-OptiFine_HD_U_H2.zip/file")
+        case '12.1':
+            webbrowser.open_new("https://www.mediafire.com/file/bsw9lwpbne9ev8w/Neo_Reach.zip/file")
+        case '13.1':
+            webbrowser.open_new("https://www.mediafire.com/file/idmpo6rmc56b826/Obscure.zip/file")
+        case '14.1':
+            webbrowser.open_new("https://www.mediafire.com/file/njdn9o73gehyxxb/Lithium_Lite.zip/file")
+        case '15.1':
+            exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Raven').text)
+        case '16.1':
+            webbrowser.open_new("https://www.mediafire.com/file/9bw1ggpe6lpitpe/Fractal.zip/file")
+        case '17.1':
+            webbrowser.open_new("https://www.mediafire.com/file/29naq1ybrud7f5k/WTap_v3.zip/file")
+        case '18.1':
+            webbrowser.open_new("https://www.mediafire.com/file/o565tmgdhx1chvd/ESP.zip/file")
+        case '19.1':
+            webbrowser.open_new("https://www.mediafire.com/file/9wstbkahtv0ux2j/Cucklord.zip/file")
+        case '20.1':
+            webbrowser.open_new("https://www.mediafire.com/file/t9mrmlmgxb4nsgv/Cucklord_Reborn.zip/file")
+        case '21.1':
+            webbrowser.open_new("https://www.mediafire.com/file/ymd1hc1j7nb7qj1/Elixe.zip/file")
+        case '22.1':
+            webbrowser.open_new("https://www.mediafire.com/file/x2epdf2ai8xlr15/Iridium_Ghost.zip/file")
+        case '23.1':
+            webbrowser.open_new("https://www.mediafire.com/file/yzbmndznry00jrk/Axenta_V2.zip/file")
+        case '24.1':
+            webbrowser.open_new("https://www.mediafire.com/file/iiapzj07j8e1z6a/Smok.zip/file")
+        case '25.1':
+            webbrowser.open_new("https://www.mediafire.com/file/vtp18l7ygr7t0ff/Itami.zip/file")
+        case '26.1':
+            webbrowser.open_new("https://www.mediafire.com/file/seaymmk3w14rxt7/Kriso_b1.zip/file")
+        case '27.1':
+            webbrowser.open_new("https://www.mediafire.com/file/0avv5njdwx29omn/Mind_Client.zip/file")
+        case '28.1':
+            webbrowser.open_new("https://www.mediafire.com/file/f8ka0ch9m07680b/Mye_Ghost.zip/file")
+        case '29.1':
+            webbrowser.open_new("https://www.mediafire.com/file/t0cv0fs3mw3vdvq/Nyctum.zip")
+        case '30.1':
+            webbrowser.open_new("https://www.mediafire.com/file/v0jvcvvc1kbhj2t/Shiba.zip/file")
+        case '31.1':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1049374498442461194/1081999382569820180/Uboa_v2.jar")
+        case '32.1':
+            webbrowser.open_new("https://workupload.com/file/JjFABQCJspJ")
+        case '33.1':
+            webbrowser.open_new("https://www.mediafire.com/file/fny7xzarjh8n415/Whiteout_V3.zip/file")
+        case '34.1':
+            webbrowser.open_new("https://www.mediafire.com/file/wgyzc22pxc83ryf/Emo.zip/file")
+        case '35.1':
+            webbrowser.open_new("https://www.mediafire.com/file/98j1hfy0pkjmk7b/Epic.zip/file")
+        case '36.1':
+            webbrowser.open_new("https://www.mediafire.com/file/zjgx3rat06duvm6/Gasper.zip/file")
+        case '37.1':
+            webbrowser.open_new("https://www.mediafire.com/file/vyxlihy85lsx4mu/Chromatic.zip/file")
+        case '38.1':
+            webbrowser.open_new("https://www.mediafire.com/file/9uujyo7z1gl0rms/Akira.zip/file")
+        case '39.1':
+            webbrowser.open_new("https://www.mediafire.com/file/64h90bxzpy485wo/Bayoneta.zip/file")
+        case '40.1':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/vega.exe")
+        case '41.1':
+            webbrowser.open_new("https://www.mediafire.com/file/22evfi1yvyaormy/Dope.zip/file")
+        case '42.1':
+            webbrowser.open_new(
+                "https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9/releases/download/1.8.9/cheatbreaker.ghost.client.rar")
+        case '43.1':
+            webbrowser.open_new("https://www.mediafire.com/file/bq0hwesqqlpv5tk/EvilEye.zip/file")
+        case '44.1':
+            webbrowser.open_new("https://www.mediafire.com/file/y3onjsycdh99fxe/BetterTimeChanger.zip/file")
+        case '45.1':
+            webbrowser.open_new("https://www.mediafire.com/file/9y9i2dwo53bgqyc/Candy.zip/file")
+        case '46.1':
+            webbrowser.open_new("https://www.mediafire.com/file/vivcxqep3ft1kfj/Storm.zip/file")
+        case '47.1':
+            webbrowser.open_new("https://www.mediafire.com/file/1vyyqyveaux9ry4/ReachDisplay_Reach.zip/file")
+        case '48.1':
+            webbrowser.open_new("https://www.mediafire.com/file/bnre5f11npssw7w/Noise.zip/file")
+        case '49.1':
+            webbrowser.open_new("https://www.mediafire.com/file/pzuc1jjofuz71wd/Supremacy.zip/file")
+        case '50.1':
+            webbrowser.open_new("https://www.mediafire.com/file/lr54bxtfgxrkua6/Sprite.zip/file")
+        case '51.1':
+            webbrowser.open_new("https://www.mediafire.com/file/tsewloxt6w8c42o/Weizu_Reach.zip/file")
+        case '52.1':
+            webbrowser.open_new("https://www.mediafire.com/file/pao7e8ovi57hoy7/Juul.zip/file ")
+        case '53.1':
+            webbrowser.open_new("https://mega.nz/file/03onAJrL#97-ZrtBai1RkZ_a3vx8hCbdqrO-Kp5hxdnSkUGRqEmI")
+        case '54.1':
+            webbrowser.open_new("https://www.mediafire.com/file/4s2cm60pk4end8j/Legitish.zip/file")
+        case '55.1':
+            webbrowser.open_new("https://workupload.com/file/WheZ8nzR78H")
+        case '56.1':
+            webbrowser.open_new("https://www.mediafire.com/file/g2qsbx61itsuki6/North+(2).zip/file")
+        case '57.1':
+            webbrowser.open_new("https://www.mediafire.com/file/1gz6dk5dkzonr3s/November.zip/file")
+        case '58.1':
+            webbrowser.open_new("https://github.com/ClientPlayground/Lightning-Client")
+        case '59.1':
+            webbrowser.open_new("https://github.com/VertineClient/vertine-injector")
+        case '60.1':
+            webbrowser.open_new("https://www.mediafire.com/file/suyzmw8ryquut2l/Amari-Beta-Installer.zip/file")
+        case '61.1':
+            webbrowser.open_new("https://crystalpvp.ru/slinky/slinkycrack.zip")
+        case '62.1':
+            webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZQqrWZqYLqkNe3eLQsnxzSYBracpqqznmy#ret    url=https%3A//e.pcloud.link/publink/show%3Fcode%3DXZQqrWZqYLqkNe3eLQsnxzSYBracpqqznmy&page=login")
+        case '63.1':
+            webbrowser.open_new("https://github.com/Abyss-Client/Injector/releases/latest")
+        case '64.1':
+            webbrowser.open_new("https://github.com/PlutoSolutions/Hash")
+        case '65.1':
+            webbrowser.open_new("https://mega.nz/file/iNZFHZKC#vC75RbcuG9VfXDq4b4NG6uW8GTjEyKuemDshklCwJK8")
+        case '66.1':
+            webbrowser.open_new("https://www.mediafire.com/file/10e8ionjci2j08x/Huume.zip/file")
+        case '67.1':
+            webbrowser.open_new("https://www.mediafire.com/file/aw2f55x1hh5t7gj/Haru_AimAssist.zip/file")
+        case '68.1':
+            webbrowser.open_new("https://www.mediafire.com/file/6qedg0d2q9aej3l/Dropsy.zip/file")
+        case '69.1':
+            webbrowser.open_new("https://www.mediafire.com/file/tjvzngjkiufy4h6/Lux_Cleaner.zip/file")
+        case '70.1':
+            webbrowser.open_new("https://www.mediafire.com/file/0avv5njdwx29omn/Mind_Client.zip/file")
+        case '71.1':
+            webbrowser.open_new("https://lol.hovac.fun/archive/jelte/files/vea.jar")
+        case '72.1':
+            webbrowser.open_new("https://www.mediafire.com/file/97h25vo4g2mnyiu/Willy_%25281.7.10%252C_1.8.9%2529.zip/file")
+        case '73.1':
+            webbrowser.open_new("https://www.mediafire.com/file/1qqo6fl0v42tt50/Trump.zip/file")
+        case '74.1':
+            webbrowser.open_new("https://www.mediafire.com/file/55w2fkj0ybspdbk/gucci.jar/file?dkey=5w91nqz873u&r=795")
+        case '75.1':
+            webbrowser.open_new("https://lol.hovac.fun/archive/jelte/files/magenta.jar")
+        case '76.1':
+            webbrowser.open_new("https://www.mediafire.com/file/nuwcr6e6y69xodp/Mob_%25281.8.9%2529.zip/file")
+        case '77.1':
+            webbrowser.open_new("https://lol.hovac.fun/download.html?dl=aHR0cHM6Ly9ob3ZhYy5mdW4vZGwvTWVyZ2Uuemlw")
+        case '78.1':
+            webbrowser.open_new("https://www.mediafire.com/file/2so415guui9a15b/Dream+Advanced.rar/file")
+        case '79.1':
+            webbrowser.open_new("https://www.mediafire.com/file/l5unq5lsv248on0/Virtyu_Lite.zip/file")
+        case '80.1':
+            webbrowser.open_new("https://www.mediafire.com/file/m0fqwwd7ton453l/Latemod.zip/file")
+        case '81.1':
+            webbrowser.open_new("https://www.mediafire.com/file/dfwgim34qllswjv/Lean.zip/file")
+        case '82.1':
+            webbrowser.open_new("https://www.mediafire.com/file/j2ntt3xm98abuyj/Night_Injection.zip/file")
+        case '83.1':
+            webbrowser.open_new("https://mega.nz/file/WM41GJ4T#_4yKJio9B9jrV4htJFBvePGk-HCljijOrPJCyAtRgvU")
+        case '84.1':
+            webbrowser.open_new("https://mega.nz/file/vJpxUIDB#KkXweC9OYYhAFjuqiTE2YGOnhE8zqprIWPsjcu3bU5E")
+        case '85.1':
+            webbrowser.open_new("https://www.mediafire.com/file/syy6so30cunq0hv/Tap.zip/file")
+        case '86.1':
+            webbrowser.open_new("https://www.mediafire.com/file/epqvohxafhcjvta/Starlight_Clicker.zip/file")
+        case '87.1':
+            webbrowser.open_new("https://www.mediafire.com/file/sg4aly241pwlrb0/Starlight.zip/file")
+        case '88.1':
+            webbrowser.open_new("https://www.mediafire.com/file/i20fmx6mh3jaceq/Drizzle.zip/file")
+        case '89.1':
+            webbrowser.open_new("https://www.mediafire.com/file/m2wf2gpsjcx1a9w/Polaroid.rar/file")
+        case '90.1':
+            webbrowser.open_new("https://www.mediafire.com/file/4hs4tz4yco7zghh/Fusion.rar/file")
+        case '91.1':
+            webbrowser.open_new("https://www.mediafire.com/file/v7qncdv73rcprvs/Ripterms.rar/file")
+        case '92.1':
+            webbrowser.open_new("https://www.mediafire.com/file/d8wm22jyeuyilrs/PINKY.zip/file")
+        case '93.1':
+            webbrowser.open_new("https://www.mediafire.com/file/fuurqxbq4xucrs6/WNAO.zip/file")
+        case '94.1':
+            webbrowser.open_new("https://www.mediafire.com/file/ugostl54ku518ew/Raid0.zip/file")
+        case '95.1':
+            webbrowser.open_new("https://www.mediafire.com/file/v7qncdv73rcprvs/Ripterms.rar/file")
+        case '96.1':
+            webbrowser.open_new("https://mega.nz/file/vYRRRTpb#05z4GtVC9mcyOoA40bsFt_GDYMMob8qHdQ-UPakzaa8")
+        case '97.1':
+            webbrowser.open_new("https://mega.nz/file/uYpijIZJ#l9Y3mJ3i8h9RIc64jF9AmFUPV8w2QMCsDUTpAy0D25c")
+        case '98.1':
+            webbrowser.open_new("https://www.mediafire.com/file/jr512pt0fi24qo9/Ranked.rar/file")
+        case '99.1':
+            webbrowser.open_new("https://www.mediafire.com/file/a7icq8y3voq4mop/Silent.rar/file")
+        case '100.1':
+            webbrowser.open_new("https://www.mediafire.com/file/89icqq6gdusecps/Styx.zip/file")
+        case '101.1':
+            webbrowser.open_new("https://www.mediafire.com/file/okm0ohu2g1v30l1/Skidware.zip/file")
+        case '102.1':
+            webbrowser.open_new("https://mega.nz/file/jNAh3JaL#nJwH0EaYZe_-NQkh_l92xNYECzmmcrC-wODqideWidY")
+        case '103.1':
+            webbrowser.open_new("https://mega.nz/file/GAJFSTiL#gK-RZPkXOCHakXzSonc04VtTPU2grOyO8T6PzKk-sIk")
+        case '104.1':
+            webbrowser.open_new("https://www.mediafire.com/file/w8ovnm7fijpl2uo/Crypt.zip/file")
+        case '105.1':
+            webbrowser.open_new("https://www.mediafire.com/file/jcuqa9nsh9cnibk/Matic.rar/file")
+        case '106.1':
+            webbrowser.open_new("https://github.com/Oxy-Client/Client")
+        case '1.2':
+            exec(requests.get("https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Vestige").text)
+        case '2.2':
+            webbrowser.open_new("https://www.mediafire.com/file/pd40jvic352zopy/Huzuni_Dev15_%25281.8%2529.zip/file")
+        case '3.2':
+            webbrowser.open_new("https://www.mediafire.com/file/z1dpsfi8ow4k0ar/sigma.zip/file")
+        case '4.2':
+            webbrowser.open_new("https://www.mediafire.com/file/76pwmepnhmh1j3r/FDP_Client_Clean_4934678.jar/file")
+        case '5.2':
+            webbrowser.open_new("https://drive.google.com/file/d/1bMBKvXvoqv85LvMnCUIUh3jkSwtkcw4R/view")
+        case '6.2':
+            webbrowser.open_new("https://drive.google.com/file/d/1DiKI8M4TAnhvYEHCHdQgMjhkls33jDF9/view")
+        case '7.2':
+            webbrowser.open_new("https://drive.google.com/file/d/1NjWP-HWSenlE8dWmbBfoGbN_UU2GZhmL/view")
+        case '8.2':
+            webbrowser.open_new("https://workupload.com/file/Re6GJ2mWXJX")
+        case '9.2':
+            webbrowser.open_new("https://www.blackspigot.com/downloads/stitch-client.29423/")
+        case '10.2':
+            webbrowser.open_new("https://www.mediafire.com/file/sw4b7p7hdfhztfn/Novoline.zip/file")
+        case '11.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ek0gg130dm767rb/CrossSine-B31.jar/file")
+        case '12.2':
+            webbrowser.open_new("https://www.mediafire.com/file/vti3ff68h26jhvu/BlazeClient.zip/file")
+        case '13.2':
+            webbrowser.open_new("https://www.mediafire.com/file/rvje41s01i4gary/zrd.zip/file")
+        case '14.2':
+            webbrowser.open_new("https://www.mediafire.com/file/komh0qjyq6lh6de/Moon.rar/file")
+        case '15.2':
+            exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/Rise').text)
+        case '16.2':
+            webbrowser.open_new("https://www.mediafire.com/file/itc99scy7znfwfd/Dortware.zip/file")
+        case '17.2':
+            webbrowser.open_new("https://www.mediafire.com/file/cy4g72taj57119o/Drunk_Client.zip/file")
+        case '18.2':
+            webbrowser.open_new("https://www.mediafire.com/file/wdoyfxhb4id2nkp/EaZy+b1337.zip/file")
+        case '19.2':
+            webbrowser.open_new("https://www.mediafire.com/file/wzh1dzuqynvo7fz/Astrohook_1.8.8.zip/file")
+        case '20.2':
+            webbrowser.open_new("https://www.mediafire.com/file/a7hdv2aj1lrbo42/Autumn.zip/file")
+        case '21.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ey1vhkcz2o8k1yj/Crass_B2.rar/file")
+        case '22.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ipu0x5vekwy805x/DeepwaterHorizon.zip/file")
+        case '23.2':
+            webbrowser.open_new("https://www.mediafire.com/file/gxvdxh7zzbw3lug/Ketamine.zip/file")
+        case '24.2':
+            webbrowser.open_new("https://www.mediafire.com/file/eg8tn6wycpj7erl/Sativa.zip/file")
+        case '25.2':
+            webbrowser.open_new("https://www.mediafire.com/file/vhwf5gmakavup4m/Xatz_Client.zip/file")
+        case '26.2':
+            webbrowser.open_new("https://www.mediafire.com/file/agb4afnwe68h2mv/Senura.zip/file")
+        case '27.2':
+            webbrowser.open_new("https://www.mediafire.com/file/vw3kenw8pm2fo6v/LiquidX-v3.3.jar/file")
+        case '28.2':
+            webbrowser.open_new("https://www.mediafire.com/file/8x1mn0m10e5l68e/NightX-B57-Release.zip/file")
+        case '29.2':
+            webbrowser.open_new("https://www.mediafire.com/file/a9gggfoltly67hl/IcarusX_old_version.rar/file")
+        case '30.2':
+            webbrowser.open_new("https://www.mediafire.com/file/wbbf46q5mkut5qv/IceTea.zip/file")
+        case '31.2':
+            webbrowser.open_new("https://www.mediafire.com/file/yja0jaor2kea9ew/DuckSense-Legacy.jar/file")
+        case '32.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ql1bcg75md94lls/Mylo.zip/file")
+        case '33.2':
+            webbrowser.open_new("https://www.mediafire.com/file/o5zroqoyuev5vpv/Weedhack.zip/file")
+        case '34.2':
+            webbrowser.open_new("https://www.mediafire.com/file/8olb1phsp7xtjxl/Vergo.zip/file")
+        case '35.2':
+            webbrowser.open_new("https://www.mediafire.com/file/7qqpq8clygn4etr/Clean.zip/file")
+        case '36.2':
+            exec(requests.get('https://raw.githubusercontent.com/MCCFree/MCC-Loader/main/LiquidBounce').text)
+        case '37.2':
+            webbrowser.open_new("https://qiwi.gg/file/2RcMi0g8Pig81WTyTmwEmxHChiy-317395-Augustus")
+        case '38.2':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/Lime.zip")
+        case '39.2':
+            webbrowser.open_new("https://www.mediafire.com/file/5xpzb7zn6py4263/Azazaaa.zip/file")
+        case '40.2':
+            webbrowser.open_new("https://www.mediafire.com/file/uv4tlaun90mdm5t/Eris_v0.1b.zip/file")
+        case '41.2':
+            webbrowser.open_new("https://www.mediafire.com/file/2xf07ank6q8hn7k/Gravity_2.1.zip/file")
+        case '42.2':
+            webbrowser.open_new("https://www.mediafire.com/file/cjnhbq8zi6ymud2/MythRecode.zip/file")
+        case '43.2':
+            webbrowser.open_new("https://www.mediafire.com/file/lykk51nxnj69rug/Resolute.zip/file")
+        case '44.2':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/Exhibition.zip")
+        case '45.2':
+            webbrowser.open_new("https://workupload.com/file/rtDnzJ4AdHD")
+        case '46.2':
+            webbrowser.open_new("https://www.mediafire.com/file/oh5i9phntq5belu/TANK_V4.rar/file")
+        case '47.2':
+            webbrowser.open_new("https://www.mediafire.com/file/f58fm3ala4gd9jh/Lirium.zip/file")
+        case '48.2':
+            webbrowser.open_new("https://workupload.com/file/KNBVq9RWveV")
+        case '49.2':
+            webbrowser.open_new("https://www.mediafire.com/file/7o90az3854e6nrk/Nur_6.5.rar/file")
+        case '50.2':
+            webbrowser.open_new("https://www.mediafire.com/file/jdgcjay0c2cxr9o/Aritum.zip/file")
+        case '51.2':
+            webbrowser.open_new("https://www.mediafire.com/file/mtx81r37t9m17i8/Trinity_2.10.zip/file")
+        case '52.2':
+            webbrowser.open_new("https://www.mediafire.com/file/v6aky6mbt122h1s/Fan.zip/file")
+        case '53.2':
+            webbrowser.open_new("https://anotepad.com/notes/gpniw2gw")
+        case '54.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ys7mbvidluv4ehb/Milky_b4.zip/file")
+        case '55.2':
+            webbrowser.open_new("https://www.mediafire.com/file/t25fequ4ap6j9tz/IntCrack_%2528old%2529.zip/file")
+        case '56.2':
+            webbrowser.open_new("https://www.mediafire.com/file/d2286khjb7adwnr/Gothaj.zip/file")
+        case '57.2':
+            webbrowser.open_new("https://github.com/RE-KevinClient/KevinClient-Reborn/releases/tag/u2.4.8")
+        case '58.2':
+            webbrowser.open_new("https://workupload.com/file/jMUrDuxpaaH")
+        case '59.2':
+            webbrowser.open_new("https://workupload.com/file/GpDs5hLFufH")
+        case '60.2':
+            webbrowser.open_new("https://github.com/WalmartSolutions/Bloody-1.0.1/blob/main/Bloody-v1.0.1.jar")
+        case '61.2':
+            webbrowser.open_new("https://gitlab.com/3000IQPlay/Prestige/-/archive/main/Prestige-main.zip?path=Prestige7-20240301")
+        case '62.2':
+            webbrowser.open_new("https://github.com/WalmartSolutions/ThunderHack-Deluxe")
+        case '63.2':
+            webbrowser.open_new("https://workupload.com/file/KWLqZqNcEfB")
+        case '64.2':
+            webbrowser.open_new("https://workupload.com/file/6sbhyuvFpcD")
+        case '65.2':
+            webbrowser.open_new("https://www.mediafire.com/file/w0bsrpe00jtvkc3/ClientWare_b1.0.zip/file")
+        case '66.2':
+            webbrowser.open_new("https://sites.google.com/view/nezha-anticheat/sigma-archive")
+        case '67.2':
+            webbrowser.open_new("https://workupload.com/file/ux2JBKK8dU5")
+        case '68.2':
+            webbrowser.open_new("https://workupload.com/file/szFZJUmjGmL")
+        case '69.2':
+            webbrowser.open_new("https://www.mediafire.com/file/xkm16qm7q5x94g8/rektsky.rar/file")
+        case '70.2':
+            webbrowser.open_new("https://fdpinfo.github.io/download")
+        case '71.2':
+            webbrowser.open_new("https://workupload.com/file/deQbL32TQR4")
+        case '72.2':
+            webbrowser.open_new("https://www.mediafire.com/file/jxtx2qvjtg5ya8n/Negr.zip/file")
+        case '73.2':
+            webbrowser.open_new("https://github.com/WalmartSolutions/Asteria.rip")
+        case '74.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1129999297857990660/1169887601445052436/Lime-reborn.zip?ex=655709bb&is=654494bb&hm=d3d786081e19bc5fd3b50eec0e77218a97c50457db68bdb15a7f97adc211b6c1&")
+        case '75.2':
+            webbrowser.open_new("https://github.com/laoshuikaixue/FDPClient")
+        case '76.2':
+            webbrowser.open_new("https://workupload.com/file/c823T2LaFTv")
+        case '77.2':
+            webbrowser.open_new("https://www.mediafire.com/file/4419kb1fnbbszwd/Helios.zip/file")
+        case '78.2':
+            webbrowser.open_new("https://workupload.com/file/DFxJMNXqTDA")
+        case '79.2':
+            webbrowser.open_new("https://www.mediafire.com/file/5c6ico912uq3wdn/Asyncware.zip/file")
+        case '80.2':
+            webbrowser.open_new("https://www.mediafire.com/file/s4pubyxcv167mct/Summer+Reborn+v3.zip/file")
+        case '81.2':
+            webbrowser.open_new("https://www.mediafire.com/file/382s01u180l8pti/Satiate.zip/file")
+        case '82.2':
+            webbrowser.open_new("https://workupload.com/file/BeHqpWqNMVv")
+        case '83.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1160274406128484403/1181187679648489482/airclient-1.2.jar?ex=658025c0&is=656db0c0&hm=d34ecc28179ffc6787fcf8f42a180806c9ef11342503d7ce38289675b8630656&")
+        case '84.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187569667779342367/1187569705507115109/SalHack.zip?ex=65975d79&is=6584e879&hm=861c57691bc720a20db3d3b2d83e4e107f35eb6768a3d5c517fdd2b56bcfa726&")
+        case '85.2':
+            webbrowser.open_new("https://github.com/PlutoSolutions/Boze")
+        case '86.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615112056557588/Flow-1.1.zip?ex=659787c3&is=658512c3&hm=1744f94d2fc0d26538bb3698677d093104633ced7f5a03f73d8e00a49eff4913&")
+        case '87.2':
+            webbrowser.open_new("https://github.com/nevalackin/original-radium/")
+        case '88.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615112555671632/None_B2.1.rar?ex=659787c3&is=658512c3&hm=786957f64ce2b85ec7f6a88fe74d4cc0b93793f6ef89196a898340c3ef9100f1&")
+        case '89.2':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187571000158732369/1187615113704910908/Ketamine.zip?ex=659787c3&is=658512c3&hm=735a03feae76f7f9ad25604cbf806315129e88b3f6161346cd7f11718fa9eee8&")
+        case '90.2':
+            webbrowser.open_new("https://www.mediafire.com/file/l8ter4ahaxkw13h/Soar.zip/file")
+        case '91.2':
+            webbrowser.open_new("https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA ")
+        case '92.2':
+            webbrowser.open_new("https://drive.proton.me/urls/PB9PKP8C8W#0ol6F9HyRGDL")
+        case '93.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ev6emsu93584f0h/Skligga_%2528FABRIC%2529.zip/file")
+        case '94.2':
+            webbrowser.open_new("https://www.mediafire.com/file/k2je7c3nahc04fl/Aoba.rar/file")
+        case '95.2':
+            webbrowser.open_new("https://www.mediafire.com/file/stksjqj160aijz5/Aether.zip/file")
+        case '96.2':
+            webbrowser.open_new("https://mega.nz/file/LQghAKrY#KS90dFzsaWNOFOZr6Rv-w8nxeU6m8Ov8iu-X3MU7bFk")
+        case '97.2':
+            webbrowser.open_new("https://workupload.com/file/Twx5yMkXWDE")
+        case '98.2':
+            webbrowser.open_new("https://workupload.com/file/pKnzsZBvhJk")
+        case '99.2':
+            webbrowser.open_new("https://workupload.com/file/NXQWdmWcraf")
+        case '100.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ebae39q8u50i0t2/KyinoClient-B17.1-Cracked.jar/file")
+        case '101.2':
+            webbrowser.open_new("https://workupload.com/file/B8qRFBUQaGh")
+        case '102.2':
+            webbrowser.open_new("https://www.mediafire.com/file/7y821oge0ykikwa/Energy.zip/file")
+        case '103.2':
+            webbrowser.open_new("https://workupload.com/start/L2q8QV9suua")
+        case '104.2':
+            webbrowser.open_new("https://workupload.com/file/HES9m4ksEdw")
+        case '105.2':
+            webbrowser.open_new("https://mega.nz/folder/yJkwwTaQ#l-INjqfZxwAGhuMpWQmbww")
+        case '106.2':
+            webbrowser.open_new("https://mega.nz/folder/CRtSCbwT#q9TSWIekNLrngDmDLNpucw")
+        case '107.2':
+            webbrowser.open_new("https://deadcodehack.org/")
+        case '108.2':
+            webbrowser.open_new("https://workupload.com/file/szFZJUmjGmL")
+        case '109.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ufcnic3h8ac1krq/Opal+011225+Cracked.zip/file")
+        case '110.2':
+            webbrowser.open_new("https://workupload.com/file/MZVYaXYKYy2")
+        case '111.2':
+            webbrowser.open_new("https://workupload.com/file/Ypb7KUM6JYN")
+        case '112.2':
+            webbrowser.open_new("https://workupload.com/file/zTxjLZ3gHwa")
+        case '113.2':
+            webbrowser.open_new("https://doomsdayclient.com/")
+        case '115.2':
+            webbrowser.open_new("https://www.mediafire.com/file/ahqu8yzqif9fozb/Slack.zip/file")
+        case '116.2':
+            webbrowser.open_new("https://github.com/DGVPSH/SlackOpen")
+        case '117.2':
+            webbrowser.open_new("https://workupload.com/file/XuChrCxnyrF")
+        case '118.2':
+            webbrowser.open_new("https://workupload.com/start/5hnCzQqqaxc")
+        case '119.2':
+            webbrowser.open_new("https://workupload.com/start/5hnCzQqqaxc")
+        case '120.2':
+            webbrowser.open_new("https://mega.nz/folder/dy9HwSQZ#2GS0LkEtNqEzapmGcIipCw")
+        case '121.2':
+            webbrowser.open_new("https://workupload.com/file/FnwBFFbntLF")
+        case '122.2':
+            webbrowser.open_new("https://git.disroot.org/CatsPnewed/Forkbounce.Archive/src/branch/main/DineTire")
+        case '123.2':
+            webbrowser.open_new("https://workupload.com/file/JJ8Js326PdF")
+        case '124.2':
+            webbrowser.open_new("https://wdfiles.ru/91d15b")
+        case '125.2':
+            webbrowser.open_new("https://modsfire.com/rBw5HGyD5PrSIf1")
+        case '126.2':
+            webbrowser.open_new("https://www.mediafire.com/file/xpekacyayfd6rce/Nursultan_1_12_2.zip/file")
+        case '127.2':
+            webbrowser.open_new("https://oxy.st/d/OBqh")
+        case '128.2':
+            webbrowser.open_new("https://workupload.com/file/Nxh5exMLDzJ")
+        case '129.2':
+            webbrowser.open_new("https://workupload.com/file/WubBC547aWx")
+        case '130.2':
+            webbrowser.open_new("https://workupload.com/file/CYEXGPE4BaD")
+        case '131.2':
+            webbrowser.open_new("https://www.mediafire.com/file/2pz6jwsz3xa7xts/wexside.zip")
+        case '132.2':
+            webbrowser.open_new("https://workupload.com/file/DWp4L3jv6fx")
+        case '133.2':
+            webbrowser.open_new("https://workupload.com/file/DL8pNyxu82N")
+        case '134.2':
+            webbrowser.open_new("https://workupload.com/file/jddNj69zRMq")
+        case '135.2':
+            webbrowser.open_new("https://workupload.com/file/HyLykevQbV2")
+        case '136.2':
+            webbrowser.open_new("https://workupload.com/start/pwbNqzBKm7C")
+        case '137.2':
+            webbrowser.open_new("https://workupload.com/file/sje9JUWtnmA")
+        case '138.2':
+            webbrowser.open_new("https://disk.yandex.ru/d/vNK0tzEqcU2UAQ")
+        case '139.2':
+            webbrowser.open_new("https://workupload.com/file/yzBVHNxQLKj")
+        case '140.2':
+            webbrowser.open_new("https://workupload.com/file/DY2pH4sPhtC")
+        case '141.2':
+            webbrowser.open_new("https://workupload.com/file/qp23g8mCTRW")
+        case '142.2':
+            webbrowser.open_new("https://mega.nz/folder/5m0RWZKR#NdDhvVBGlFtBn-ZhU6gSkw")
+        case '143.2':
+            webbrowser.open_new("https://workupload.com/file/ANFtYqH8yBh")
+        case '144.2':
+            webbrowser.open_new("https://workupload.com/file/C3BfRbAL4kk")
+        case '145.2':
+            webbrowser.open_new("https://workupload.com/file/Em82eAB7CG7")
+        case '1.3':
+            webbrowser.open_new("https://www.mediafire.com/file/uixqtdbh7laysge/1337_Clicker.zip/file")
+        case '2.3':
+            webbrowser.open_new("https://www.mediafire.com/file/4naitvdw5en5wzj/Aion.zip/file")
+        case '3.3':
+            webbrowser.open_new("https://www.mediafire.com/file/pf0kgzyw25hl1yr/Ape_Clicker.zip/file")
+        case '4.3':
+            webbrowser.open_new("https://www.mediafire.com/file/8c6gqmtb8pz53gf/Apollyon.zip/file")
+        case '5.3':
+            webbrowser.open_new("https://www.mediafire.com/file/kx8g6x9oafq5go3/Ares.zip/file")
+        case '6.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bpw3e5xgvekgwed/Atomic_Clicker.zip/file")
+        case '7.3':
+            webbrowser.open_new("https://www.mediafire.com/file/jejnjk1bskuddnc/Dropsy.zip/file")
+        case '8.3':
+            webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZpXouZR28OMEJM2P4vEga03PAdbBCaaEW7")
+        case '9.3':
+            webbrowser.open_new("https://www.mediafire.com/file/xpb2cg5k9f3lzlx/Exelon.zip/file")
+        case '10.3':
+            webbrowser.open_new("https://www.mediafire.com/file/v9iaswz213pqu27/Exodus.zip/file")
+        case '11.3':
+            webbrowser.open_new("https://www.mediafire.com/file/o0t1ygy0rg4l17s/Crim.zip/file")
+        case '12.3':
+            webbrowser.open_new("https://www.mediafire.com/file/srqyn1hp7rrbbvg/Dewgs_Fully_Private.zip/file")
+        case '13.3':
+            webbrowser.open_new("https://www.mediafire.com/file/uu2ztwfv42u6gpy/Drowm.zip/file")
+        case '14.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6y4tom2hfr6qn0w/Carbon.zip/file")
+        case '15.3':
+            webbrowser.open_new("https://www.mediafire.com/file/d95sszrmm76dy1d/Choppa_Clicker.zip/file")
+        case '16.3':
+            webbrowser.open_new("https://www.mediafire.com/file/n1fveg4q1e5ntdj/Striker.zip/file")
+        case '17.3':
+            webbrowser.open_new("https://www.mediafire.com/file/7lrqrng8coi3m3s/Slinkware.zip/file")
+        case '18.3':
+            webbrowser.open_new("https://www.mediafire.com/file/91icjl7swzn6by2/Sarm_Private.zip/file")
+        case '19.3':
+            webbrowser.open_new("https://www.mediafire.com/file/kn38x7p0zmodxz3/Bap.zip/file")
+        case '20.3':
+            webbrowser.open_new("https://www.mediafire.com/file/wdezfkqfsxi4x4q/Bap_Remake.zip/file")
+        case '21.3':
+            webbrowser.open_new("https://www.mediafire.com/file/wsg0vi9t36qjch6/Bat_Clicker.zip/file")
+        case '22.3':
+            webbrowser.open_new("https://www.mediafire.com/file/76mgac3hd80slas/Blatant_Maestro.zip/file")
+        case '23.3':
+            webbrowser.open_new("https://www.mediafire.com/file/b1necl9o1seafzx/Bit.zip/file")
+        case '24.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6ks0tt5goyksuvw/Cocas_Clicker.zip/file")
+        case '25.3':
+            webbrowser.open_new("https://www.mediafire.com/file/8uklxkrxquq7eve/Cyxum.zip/file")
+        case '26.3':
+            webbrowser.open_new("https://www.mediafire.com/file/hy518vksivpbgib/Moon.zip/file")
+        case '27.3':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/PYClickerV1.1.zip")
+        case '28.3':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/prism.exe")
+        case '29.3':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/ppclicker.exe")
+        case '30.3':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/epicclicker.exe")
+        case '31.3':
+            webbrowser.open_new("https://www.mediafire.com/file/169w4uu0qj2xn0e/Aurium.zip/file")
+        case '32.3':
+            webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZqKcpZNSSGbJvdNPhrDIx5XJJ437uCxpEy")
+        case '33.3':
+            webbrowser.open_new("https://www.mediafire.com/file/cnt9uq2ho6dv07u/Empty.wtf.zip/file")
+        case '34.3':
+            webbrowser.open_new("https://www.mediafire.com/file/vgfc44jo5p4iq55/Famas.zip/file")
+        case '35.3':
+            webbrowser.open_new("https://www.mediafire.com/file/2qqn0ezhhqz0rnj/Foam.zip/file")
+        case '36.3':
+            webbrowser.open_new("https://www.mediafire.com/file/eqvptk86wmet43t/Guam.zip/file")
+        case '37.3':
+            webbrowser.open_new("https://www.mediafire.com/file/imdyqvqqo21rxhn/Ian_Recorder.zip/file")
+        case '38.3':
+            webbrowser.open_new("https://mega.nz/file/khIBERRb#K6vs5ETa2-DuBaliYL5FgLF5tQhgKQ_FJI3GDk22gt4")
+        case '39.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bsnmrsbr6bcnmjh/N0le_Private_Clicker.zip/file")
+        case '40.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6pk2s7iqipggdp5/Physiological_Clicker.zip/file")
+        case '41.3':
+            webbrowser.open_new("https://www.mediafire.com/file/sv8gtcxv0tw856u/SlinkyClicker.zip/file")
+        case '42.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ppcnz7xtm1nyo99/Kaos.zip/file")
+        case '43.3':
+            webbrowser.open_new("https://www.mediafire.com/file/36pivhz2sdihp5w/Loop_Clicker.zip/file")
+        case '44.3':
+            webbrowser.open_new("https://www.mediafire.com/file/lju5urvsohxge66/Mango.zip/file")
+        case '45.3':
+            webbrowser.open_new("https://www.mediafire.com/file/t7nlxh8ewwz63z1/Mango_Lite.zip/file")
+        case '46.3':
+            webbrowser.open_new("https://e.pcloud.link/publink/show?code=XZWYhuZMj5Sd2MFvELUK3UCKjiY402oA22X")
+        case '47.3':
+            webbrowser.open_new("https://mega.nz/file/AiEi1KoI#vYVqC6gLZdTqw52KCFFOJoEnvNVO6F3Zy5hNQd2TGJA")
+        case '48.3':
+            webbrowser.open_new(
+                "https://cdn.discordapp.com/attachments/1187575411849302056/1187575444652957828/Hidden_Clicker_ssverify.bar.zip?ex=659762d2&is=6584edd2&hm=d7a57fd14433886bb648774508095a7aa28c342decaa241b23c0b16decf48770&")
+        case '49.3':
+            webbrowser.open_new("https://www.mediafire.com/file/da3ef52a94980xe/Ozixx.zip/file")
+        case '50.3':
+            webbrowser.open_new("https://www.mediafire.com/file/3041pnwqmp61v5b/Xanax.zip/file")
+        case '51.3':
+            webbrowser.open_new("https://www.mediafire.com/file/3wif399gpnrnam7/Rupol.zip/file")
+        case '52.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6dpdkzd3lj0ayqr/Rivals.zip/file")
+        case '53.3':
+            webbrowser.open_new("https://www.mediafire.com/file/91icjl7swzn6by2/Sarm_Private.zip/file")
+        case '54.3':
+            webbrowser.open_new("https://www.mediafire.com/file/box0azo17ua67ck/Soy.zip/file")
+        case '55.3':
+            webbrowser.open_new("https://www.mediafire.com/file/16rq106jwaomv2t/Spark.zip/file")
+        case '56.3':
+            webbrowser.open_new("https://www.mediafire.com/file/7q9dm8fk5nsq9mu/Spotify.zip/file")
+        case '57.3':
+            webbrowser.open_new("https://www.mediafire.com/file/0vygq1qjcmynzxf/Scatter.zip/file")
+        case '58.3':
+            webbrowser.open_new("https://www.mediafire.com/file/l3o9bukn7czdm2a/Murphy_Clicker.zip/file")
+        case '59.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bxzdhfesvnjtx6b/Radon.zip/file")
+        case '60.3':
+            webbrowser.open_new("https://www.mediafire.com/file/e0gzudgkyq4wp2r/Taca_Clicker.zip/file")
+        case '61.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6uog8h8i9amhwom/Sigma_Clicker.rar/file")
+        case '62.3':
+            webbrowser.open_new("https://www.mediafire.com/file/wvl51bs1ellj0hb/Comet_Recorder.rar/file")
+        case '63.3':
+            webbrowser.open_new("https://www.mediafire.com/file/7gon524v99bygac/Ghetto_Clicker.rar/file")
+        case '64.3':
+            webbrowser.open_new("https://www.mediafire.com/file/jnlfvujc3utkt8c/Brazilian.zip/file")
+        case '65.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bjpyxee8sjgwgy3/Bhop.zip/file")
+        case '66.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6g4d9l2gx2lqbo2/Flare.zip/file")
+        case '67.3':
+            webbrowser.open_new("https://www.mediafire.com/file/mqp654jmflea89x/sylph.zip/file")
+        case '68.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6uog8h8i9amhwom/Sigma_Clicker.rar/file")
+        case '69.3':
+            webbrowser.open_new("https://www.mediafire.com/file/wvl51bs1ellj0hb/Comet_Recorder.rar/file")
+        case '70.3':
+            webbrowser.open_new("https://www.mediafire.com/file/7gon524v99bygac/Ghetto_Clicker.rar/file")
+        case '71.3':
+            webbrowser.open_new("https://www.mediafire.com/file/jnlfvujc3utkt8c/Brazilian.zip/file")
+        case '72.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bjpyxee8sjgwgy3/Bhop.zip/file")
+        case '73.5':
+            webbrowser.open_new("https://www.mediafire.com/file/qvci7hzpbtk6sr1/Broxa.zip/file")
+        case '74.5':
+            webbrowser.open_new("https://www.mediafire.com/file/fy4mzoefhp7p2s1/Cloud.zip/file")
+        case '75.5':
+            webbrowser.open_new("https://www.mediafire.com/file/n5lzc1rlndq32ab/Lustful_Clicker.zip/file")
+        case '76.3':
+            webbrowser.open_new("https://www.mediafire.com/file/4w2g8b7lfwxqmna/Medusa.rar/file")
+        case '77.3':
+            webbrowser.open_new("https://www.mediafire.com/file/1habwt362tfxme0/v0_Clicker.zip/file")
+        case '78.3':
+            webbrowser.open_new("https://lootdest.info/s?ezZW")
+        case '79.3':
+            webbrowser.open_new("https://www.mediafire.com/file/tjky89zjkhi6zsn/Weyn_Clicker.zip/file")
+        case '80.3':
+            webbrowser.open_new("https://www.mediafire.com/file/hjcpmp88sgv1dhi/Wok.zip/file")
+        case '81.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bsnmrsbr6bcnmjh/N0le_Private_Clicker.zip/file")
+        case '82.3':
+            webbrowser.open_new("https://www.mediafire.com/file/j3uh2mxtoftg106/Nemesis.zip/file")
+        case '83.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ufge7h3007baijo/Luka.zip/file")
+        case '84.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bwgea8rmxjyornk/Knockoff_%2528Deez%2529.zip/file")
+        case '85.3':
+            webbrowser.open_new("https://www.mediafire.com/file/r9umvoxwhymcmll/Lizard.zip/file")
+        case '86.3':
+            webbrowser.open_new("https://www.mediafire.com/file/4wis72h3g902xyy/Hyper.zip/file")
+        case '87.3':
+            webbrowser.open_new("https://www.mediafire.com/file/posxz0wq9ixqn6g/Every0xgay.zip/file")
+        case '88.3':
+            webbrowser.open_new("https://www.mediafire.com/file/cmsd87o50n1m3vo/Glassware.zip/file")
+        case '89.3':
+            webbrowser.open_new("https://www.mediafire.com/file/m7gr9imoeou3jbf/Gonral.zip/file")
+        case '90.3':
+            webbrowser.open_new("https://www.mediafire.com/file/iqlk8lthe181fzh/FRT_Clicker.rar/file")
+        case '91.3':
+            webbrowser.open_new("https://www.mediafire.com/file/l0k8yra1le4heme/Gamesense.zip/file")
+        case '92.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ti09indea1x2xo5/Blueberry.zip/file")
+        case '93.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ri4q1fnloewwzpk/BPAZ.rar/file")
+        case '94.3':
+            webbrowser.open_new("https://www.mediafire.com/file/iv41lf63a63uvi1/Buxh.zip/file")
+        case '95.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ppfvtv1599lnyqy/Bok_Clicker.zip/file")
+        case '96.3':
+            webbrowser.open_new("https://www.mediafire.com/file/qvci7hzpbtk6sr1/Broxa.zip/file")
+        case '97.3':
+            webbrowser.open_new("https://www.mediafire.com/file/e090i7vmim357yl/Rehub.zip/file")
+        case '98.3':
+            webbrowser.open_new("https://www.mediafire.com/file/l6p7qzqn425tzlr/Ripz.zip/file")
+        case '99.3':
+            webbrowser.open_new("https://www.mediafire.com/file/jw0ivpukgp5hj0i/Saluz.zip/file")
+        case '100.3':
+            webbrowser.open_new("https://www.mediafire.com/file/kpi13z4d74hvv9o/Reak.zip/file")
+        case '101.3':
+            webbrowser.open_new("https://www.mediafire.com/file/plny5zv2b0kcjf8/Boris_Clicker.zip/file")
+        case '102.3':
+            webbrowser.open_new("https://www.mediafire.com/file/uil6142t6hpu8zn/Bottle.zip/file")
+        case '103.3':
+            webbrowser.open_new("https://mega.nz/file/3YBCTZDT#rUmjYom9YGXdtH7Ru_PCQEEV2VoWQviGUjGGKyV9Ixk")
+        case '104.3':
+            webbrowser.open_new("https://www.mediafire.com/file/xog6mg51ry0gg60/Chronic_Clicker.zip/file")
+        case '105.3':
+            webbrowser.open_new("https://www.mediafire.com/file/k8eicdwogtawtxt/Dorflexx.zip/file")
+        case '106.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6m03ia6gqd5i2ln/Gard.zip/file")
+        case '107.3':
+            webbrowser.open_new("https://www.mediafire.com/file/da3o73dqa1f3gg2/Granada_Clicker.zip/file")
+        case '108.3':
+            webbrowser.open_new("https://www.mediafire.com/file/235zlljjls7ew9l/Humanoid_Clicker.zip/file")
+        case '109.3':
+            webbrowser.open_new("https://www.mediafire.com/file/op9do10ckl04h89/Illusion.zip/file")
+        case '110.3':
+            webbrowser.open_new("https://www.mediafire.com/file/yl0xb2qnbp5bood/Ispo.zip/file")
+        case '111.3':
+            webbrowser.open_new("https://www.mediafire.com/file/jj8zjq97eesvkyj/Itori.zip/file")
+        case '112.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bwgea8rmxjyornk/Knockoff_%2528Deez%2529.zip/file")
+        case '113.3':
+            webbrowser.open_new("https://mega.nz/file/OBJhhADB#-v52pJlz8NCeqhlpQ5SQvQlTI_W66pNJqxjloqwobjM")
+        case '114.3':
+            webbrowser.open_new("https://www.mediafire.com/file/da48k4po137urv3/Ligma.zip/file")
+        case '115.3':
+            webbrowser.open_new("https://www.mediafire.com/file/xzqs4skz71zanvg/Lovie.zip/file")
+        case '116.3':
+            webbrowser.open_new("https://www.mediafire.com/file/n81woej29wxy03b/Luka.me.zip/file")
+        case '117.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ufge7h3007baijo/Luka.zip/file")
+        case '118.3':
+            webbrowser.open_new("https://www.mediafire.com/file/12h5t5xtgq3eklv/Monolith_Lite.zip/file")
+        case '119.3':
+            webbrowser.open_new("https://www.mediafire.com/file/3s0fd1tgu3xhlsf/Nano_Clicker.zip/file")
+        case '120.3':
+            webbrowser.open_new("https://www.mediafire.com/file/bmsah5y8m9ql5w5/Neo_Lite.zip/file")
+        case '121.3':
+            webbrowser.open_new("https://www.mediafire.com/file/b5g53dtskmig4lb/NigClicker.zip/file")
+        case '122.3':
+            webbrowser.open_new("https://www.mediafire.com/file/n0mata408gdwkxl/Nite_Clicker.zip/file")
+        case '123.3':
+            webbrowser.open_new("https://www.mediafire.com/file/6uw0k2ncnferotx/No_Bypass.zip/file")
+        case '124.3':
+            webbrowser.open_new("https://www.mediafire.com/file/5p5l4enbfios9m0/Paf.zip/file")
+        case '125.3':
+            webbrowser.open_new("https://www.mediafire.com/file/oip03jj1xghmbwi/Plasmoware.zip/file")
+        case '126.3':
+            webbrowser.open_new("https://www.mediafire.com/file/sd1m7w1i3uzk08n/Rapist.zip/file")
+        case '127.3':
+            webbrowser.open_new("https://www.mediafire.com/file/d7is2ymb2hersva/Thrax.zip/file")
+        case '128.3':
+            webbrowser.open_new("https://www.mediafire.com/file/63dulg2q318v9j0/Wszz.zip/file")
+        case '129.3':
+            webbrowser.open_new("https://www.mediafire.com/file/ixg32te936hf6hp/Yeet.zip/file")
+        case '130.3':
+            webbrowser.open_new("https://www.mediafire.com/file/fhcbgd6vkcbwjov/Yukio_Clicker.zip/file")
+        case '1.4':
+            webbrowser.open_new("https://www.mediafire.com/file/93ornlwzb5ygi9d/AAC-5.2.0.jar/file")
+        case '2.4':
+            webbrowser.open_new("https://www.mediafire.com/file/b6bkkxg3mm963a7/AAC.5.2.1.jar/file")
+        case '3.4':
+            webbrowser.open_new("https://anotepad.com/notes/d9pkni2f")
+        case '4.4':
+            webbrowser.open_new("https://www.mediafire.com/file/iwfx4s9srhpqq4l/Intave.v12.5.4-b1.jar/file")
+        case '5.4':
+            webbrowser.open_new("https://www.mediafire.com/file/tqaixvupk44cq1i/cerebrus_anticheat.jar/file")
+        case '6.4':
+            webbrowser.open_new("https://www.mediafire.com/file/zltmzf4makbohno/DakataAntiCheat-_ED.jar/file")
+        case '7.4':
+            webbrowser.open_new("https://www.mediafire.com/file/w66zg77cjn4gch0/GodsEye.b53.jar/file")
+        case '8.4':
+            webbrowser.open_new("https://www.mediafire.com/file/11627q78uw1tyo0/Kauri.zip/file")
+        case '9.4':
+            webbrowser.open_new("https://www.mediafire.com/file/h6ijs3qczkew1cr/KauriB41.zip/file")
+        case '10.4':
+            webbrowser.open_new("https://www.mediafire.com/file/cjy3ggcmsw17zt3/Lighter.zip/file")
+        case '11.4':
+            webbrowser.open_new("https://www.mediafire.com/file/ef1zdohc60vk9kp/Reflex.zip/file")
+        case '12.4':
+            webbrowser.open_new("https://www.mediafire.com/file/z9c3hny4i641ztf/Tk.zip/file")
+        case '13.4':
+            webbrowser.open_new("https://www.mediafire.com/file/c9lerxv31r7c1df/Spartan.zip/file")
+        case '14.4':
+            webbrowser.open_new("https://www.mediafire.com/file/v2gfgwrdutcrfts/Sparten.zip/file")
+        case '15.4':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1129416989576802385/1135051867404120104/Buzz.rar")
+        case '16.4':
+            webbrowser.open_new("https://www.mediafire.com/file/9l3pce0rld3bpop/Z.zip/file")
+        case '17.4':
+            webbrowser.open_new("https://www.mediafire.com/file/is444u9qj4qmint/Doggy.zip/file")
+        case '18.4':
+            webbrowser.open_new("https://www.mediafire.com/file/qgp9dhyocsj8zsh/Sparky.zip/file")
+        case '19.4':
+            webbrowser.open_new("https://www.mediafire.com/file/lsu1d7x6k8lvoh2/RandomAnticheat.zip/file")
+        case '20.4':
+            webbrowser.open_new("https://www.mediafire.com/file/qo6d6airhycy2f9/JI.zip/file")
+        case '21.4':
+            webbrowser.open_new("https://www.mediafire.com/file/tzi37vuo69rst91/AnticheatReloaded.zip/file")
+        case '22.4':
+            webbrowser.open_new("https://www.mediafire.com/file/is9bc9125ckpy49/Exploit.zip/file")
+        case '23.4':
+            webbrowser.open_new("https://www.spigotmc.org/resources/nocheatplus.26/download?version=202806")
+        case '24.4':
+            webbrowser.open_new("https://www.mediafire.com/file/c44vodgs3h5zjfk/New+WinRAR+ZIP+archive.zip/file")
+        case '25.4':
+            webbrowser.open_new("https://www.mediafire.com/file/macauwfkpwp30oc/Authme.zip/file")
+        case '26.4':
+            webbrowser.open_new("https://www.mediafire.com/file/gapa4h618xzts55/HaxEdit.zip/file")
+        case '27.4':
+            webbrowser.open_new("https://www.mediafire.com/file/y6myj2y9pl51akt/NTE.zip/file")
+        case '28.4':
+            webbrowser.open_new("https://www.mediafire.com/file/hj51mki9tbig73z/LC.zip/file")
+        case '29.4':
+            webbrowser.open_new("https://www.mediafire.com/file/gal5hq5e65qmi6p/PP.zip/file")
+        case '30.4':
+            webbrowser.open_new("https://www.mediafire.com/file/ls9x23d9skwfziu/Via.zip/file")
+        case '31.4':
+            webbrowser.open_new("https://www.mediafire.com/file/2wo4hsfr4rdtxhv/antigamingchair_2.rar/file")
+        case '32.4':
+            webbrowser.open_new("https://www.mediafire.com/file/859ppu1a9sbnmx5/Vulcan-2.8.7.jar/file")
+        case '33.4':
+            webbrowser.open_new("https://www.mediafire.com/file/deou17a7691qckz/Verus-b4161.jar/file")
+        case '34.4':
+            webbrowser.open_new("https://github.com/TawnyE/truthful-anticheat")
+        case '35.4':
+            webbrowser.open_new("https://www.mediafire.com/file/uo59y1dshuw4wvf/Warden-Release-R1.2.jar/file")
+        case '36.4':
+            webbrowser.open_new("https://www.mediafire.com/file/0esm9pk8pyipihb/Wraith_2.3.5c.jar/file")
+        case '37.4':
+            webbrowser.open_new("https://www.mediafire.com/file/hlxoc38dolagbi4/NoMoreCheat%252B.jar/file")
+        case '38.4':
+            webbrowser.open_new("https://www.mediafire.com/file/r75dh2k5cypgdyt/NovaDetector.zip/file")
+        case '39.4':
+            webbrowser.open_new("https://www.mediafire.com/file/zuj63926vk5azuj/NESS-Reloaded.jar/file")
+        case '40.4':
+            webbrowser.open_new("https://www.mediafire.com/file/5snd58uw75oganx/Matrix_7.5.1.jar/file")
+        case '41.4':
+            webbrowser.open_new("https://www.mediafire.com/file/sh6wfdxgsvn94kt/grimac-2.3.49-patch1.jar/file")
+        case '42.4':
+            webbrowser.open_new("https://www.mediafire.com/file/lhjmuwz5nhd8q1m/FrequencyPlus.jar/file")
+        case '43.4':
+            webbrowser.open_new("https://www.mediafire.com/file/4vg5mgr2781sasf/easy-cheat-detection-1.1.0.jar/file")
+        case '44.4':
+            webbrowser.open_new("https://www.mediafire.com/file/jfwvfvnahfbftnu/FlappyAnticheat-1.7.8-BETA.jar/file")
+        case '45.4':
+            webbrowser.open_new("https://www.mediafire.com/file/loe0vjr8b69tzlh/Ghostly_AntiCheat_legit_verus_lmao.jar/file")
+        case '46.4':
+            webbrowser.open_new("https://www.mediafire.com/file/hm8l51adtfaoi2l/AntiHaxerman.jar/file")
+        case '47.4':
+            webbrowser.open_new("https://www.mediafire.com/file/5ald4ovzxtpccf3/Hades.jar/file")
+        case '48.4':
+            webbrowser.open_new("https://www.mediafire.com/file/tqagz2vmh0gaazg/Intave-14.5.6.jar/file")
+        case '49.4':
+            webbrowser.open_new("https://github.com/splatboydev/Degrade")
+        case '1.5':
+            webbrowser.open_new("https://www.mediafire.com/file/zamuavediau7jdg/grand0x_private_source.zip/file")
+        case '2.5':
+            webbrowser.open_new("https://www.mediafire.com/file/7xbrqq1khuvu6eh/intave_src.zip/file")
+        case '3.5':
+            webbrowser.open_new("https://www.mediafire.com/file/pux0fhrh9q1aimu/rise_6.0_source.zip/file")
+        case '4.5':
+            webbrowser.open_new("https://www.mediafire.com/file/dubvd8udfi1miyk/vape_lite_assets.zip/file")
+        case '5.5':
+            webbrowser.open_new("https://www.mediafire.com/file/1b75bmlaiqacb9v/vape_v4.07_deobf_strings_%252B_assets_%252B_dll_file.zip/file")
+        case '6.5':
+            webbrowser.open_new("https://www.mediafire.com/file/o0qp7k57f9opa9s/MMC_Rank_Core.jar/file")
+        case '7.5':
+            webbrowser.open_new("https://www.mediafire.com/file/x0jitg55fo9hfss/CheatBreaker_HUD_1.7.10.jar/file")
+        case '8.5':
+            webbrowser.open_new("https://www.mediafire.com/folder/6ax7sahffo42l/clumsy_0.5")
+        case '9.5':
+            webbrowser.open_new("https://www.mediafire.com/file/k0iibnqnzqiuixp/Client_Strings_Leaked_by_Whatify.txt/file")
+        case '10.5':
+            webbrowser.open_new("https://www.mediafire.com/file/2wo4hsfr4rdtxhv/antigamingchair_2.rar/file")
+        case '11.5':
+            webbrowser.open_new("https://www.mediafire.com/file/5628d696dmla7ka/Leaked.zip/file")
+        case '12.5':
+            webbrowser.open_new("https://anotepad.com/notes/c7am8984")
+        case '13.5':
+            webbrowser.open_new("https://www.mediafire.com/file/0xy267fdix9u3x8/Void.zip/file")
+        case '14.5':
+            webbrowser.open_new("https://www.mediafire.com/file/0ye5f0ys74bebin/AntiOP.zip/file")
+        case '15.5':
+            webbrowser.open_new("https://www.mediafire.com/file/vj8wodo9yq8j2jx/Drip_Remade_Loader.exe/file")
+        case '16.5':
+            webbrowser.open_new("https://www.mediafire.com/file/fzkswm766mu35dz/Katana_SS_Tool.zip/file")
+        case '17.5':
+            webbrowser.open_new(
+                "https://www.mediafire.com/file/k8j9gk0ua6zohb0/Dream_Bypass_Guide_%2528LATEST_LEAK%2529.docx/file")
+        case '18.5':
+            webbrowser.open_new("https://www.mediafire.com/file/unplbx3dlyjivu5/Blockhit_Priority_Macro.zip/file")
+        case '19.5':
+            webbrowser.open_new("https://anotepad.com/notes/yscy8gff")
+        case '20.5':
+            webbrowser.open_new("https://www.mediafire.com/file/bq01a8duxctp5b9/AutoJumpReset_mod.rar/file")
+        case '21.5':
+            webbrowser.open_new("https://www.mediafire.com/file/qn800c9it2pgb25/HWID_Spoofer.rar/file")
+        case '22.5':
+            webbrowser.open_new("https://www.mediafire.com/file/hzrbbsi0dp44907/nametags_mod_1.7.10.jar/file")
+        case '23.5':
+            webbrowser.open_new("https://www.mediafire.com/file/eo4sk7x7da82vk1/replaymod-1.8.9-2.6.5.jar/file")
+        case '24.5':
+            webbrowser.open_new("https://www.mediafire.com/file/skr6qa5lqt9a2c7/VeggieSSTool.bat/file")
+        case '25.5':
+            webbrowser.open_new("https://www.mediafire.com/file/uuq9x6msh60m9y4/Ryu.zip/file")
+        case '26.5':
+            webbrowser.open_new("https://www.mediafire.com/file/9a947o2rx0by9im/TankV4_Codigo.rar/file")
+        case '27.5':
+            webbrowser.open_new("https://github.com/SlickJava/tomato")
+        case '28.5':
+            webbrowser.open_new("https://workupload.com/file/xmc2NKePCLe")
+        case '29.5':
+            webbrowser.open_new("https://workupload.com/file/xmc2NKePCLe")
+        case '30.5':
+            webbrowser.open_new("https://www.mediafire.com/file/by6mp5deld5ubh4/Astolfo_%2528deobfuscated%2529.zip/file")
+        case '31.5':
+            webbrowser.open_new("https://www.mediafire.com/file/o6xu1x9gtvkowfj/Easier-Crafting-Mod-1.12.2.jar/file")
+        case '32.5':
+            webbrowser.open_new("https://www.mediafire.com/file/wooc9504fbxrm0f/%255B1.7.10%255DHideNametagsMod-1.0.jar/file")
+        case '33.5':
+            webbrowser.open_new("https://www.mediafire.com/file/ghzqhaqnbxd3gnu/Optimize+Pack.zip/file")
+        case '34.5':
+            webbrowser.open_new("https://www.mediafire.com/file/7jtn31biaovehwk/ip-list.txt/file")
+        case '35.5':
+            webbrowser.open_new("https://github.com/WonderlandLibrary/wonderlandlibrary/tree/main/sources/Jello%200.1")
+        case '36.5':
+            webbrowser.open_new("https://github.com/Spinyfish/Client-Hall-Of-Fame/tree/main/leaks/Jinthium/Felix")
+        case '37.5':
+            webbrowser.open_new("https://gitlab.com/Arithmo/Sigma")
+        case '38.5':
+            webbrowser.open_new("https://mega.nz/file/cNNgGQoB#9pkplFX-ZwLJ7FR1FKZ3SbQ4uPjJOFp_xEUeBUHKPq4")
+        case '39.5':
+            webbrowser.open_new("https://github.com/deadLORD135/losebypass-reup")
+        case '40.5':
+            webbrowser.open_new("https://www.mediafire.com/file/vybd82ykj34o2du/Optimize+++Reach+reg.zip/file")
+        case '41.5':
+            webbrowser.open_new("https://www.mediafire.com/file/geh2gp8swe2c6jp/Vape.gg_Website.zip/file")
+        case '42.5':
+            webbrowser.open_new("https://www.mediafire.com/file/gy7mztbyxm6jz54/misplace.txt/file")
+        case '43.5':
+            webbrowser.open_new("https://www.mediafire.com/file/v22nyjjsg38355w/vape_v4.10_source_%2B_compiled.zip/file")
+        case '44.5':
+            webbrowser.open_new("https://github.com/Spinyfish/Client-Hall-Of-Fame/tree/main/leaks/Jinthium/Felix")
+        case '45.5':
+            webbrowser.open_new("https://github.com/RE-KevinClient/KevinClient-Reborn")
+        case '46.5':
+            webbrowser.open_new("https://github.com/WonderlandLibrary/wonderlandlibrary/tree/main/sources/Atani")
+        case '47.5':
+            webbrowser.open_new("https://github.com/Endemic1337/Blue-Zenith")
+        case '48.5':
+            webbrowser.open_new("https://www.mediafire.com/file/mku43l2677h3moi/Exire.zip/file")
+        case '49.5':
+            webbrowser.open_new("https://github.com/JonnyOnlineYT/xenza")
+        case '50.5':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187037173418053632/1187037175699742861/ketamine-src.zip?ex=65956d84&is=6582f884&hm=1c516973067a53340ae15f51397d26013aafbaa3aa1098ea8f51b65f1d250591&")
+        case '51.5':
+            webbrowser.open_new("https://cdn.discordapp.com/attachments/1187037173418053632/1187037175238373427/radium-src.zip?ex=65956d84&is=6582f884&hm=039bb05f4dfc2c42c3d6e30fec87e77a54c9661d286db76e45a1dc440d74742a&")
+        case '52.5':
+            webbrowser.open_new("https://www.mediafire.com/file/oh0r4pro19u0cmd/AtField+1.3.zip/file")
+        case '53.5':
+            webbrowser.open_new("https://www.mediafire.com/file/4qd8wf56jrfqafg/GoldGrinder.zip/file")
+        case '54.5':
+            webbrowser.open_new("https://www.masterof13fps.com/forum/threads/rise-6-1-25-beta-deobfuscated.8975/")
+        case '55.5':
+            webbrowser.open_new("https://www.mediafire.com/file/mtw1phcryjxlumh/AutoSprintReset.rar/file")
+        case '56.5':
+            webbrowser.open_new("https://www.mediafire.com/file/bq01a8duxctp5b9/AutoJumpReset_mod.rar/file")
+        case '57.5':
+            webbrowser.open_new("https://www.mediafire.com/file/308bsgdeplneflu/TNTSumo.zip/file")
+        case '58.5':
+            webbrowser.open_new("https://www.mediafire.com/file/n4o6fo0t9ypffm4/NoJumpDelay.rar/file")
+        case '59.5':
+            webbrowser.open_new("https://github.com/lime-client/Lime")
+        case '60.5':
+            webbrowser.open_new("https://workupload.com/archive/K2FRCFqKQB")
+        case '61.5':
+            webbrowser.open_new("https://www.mediafire.com/file/o1uq0gi12tf79a9/Radium.zip/file")
+        case '62.5':
+            webbrowser.open_new("https://www.mediafire.com/file/vvdosswh1k3f7g1/PuppyClient.zip/file")
+        case '63.5':
+            webbrowser.open_new("https://www.mediafire.com/file/l2z9boafiiufart/Aura+Clicker.rar/file")
+        case '64.5':
+            webbrowser.open_new("https://www.mediafire.com/file/arq0o4b8i1mz8r0/Artemis+1.0.rar/file")
+        case '65.5':
+            webbrowser.open_new("https://www.mediafire.com/file/1ja4w1ttg4wbtsj/3arthh4ck+1.0.0.zip/file")
+        case '66.5':
+            webbrowser.open_new("https://www.mediafire.com/file/gbhvwsk2vblhebt/Aether+5.5.rar/file")
+        case '67.5':
+            webbrowser.open_new("https://www.mediafire.com/file/g1bbxcu30qfhlrr/Alpha+Centauri+B6.rar/file")
+        case '68.5':
+            webbrowser.open_new("https://www.mediafire.com/file/gbhtfpsh8kffgso/Exhibition+5.0.rar/file")
+        case '69.5':
+            webbrowser.open_new("https://www.mediafire.com/file/kctxuf0c9upgjgp/Mark's+ClientBase.zip/file")
+        case '70.5':
+            webbrowser.open_new("https://www.mediafire.com/file/v5eb47z3evxfbt2/Augustus+b2.6.rar/file")
+        case '71.5':
+            webbrowser.open_new("https://www.mediafire.com/file/tfcq3zyyakxdn33/Celestial+Premium+6.0.rar/file")
+        case '72.5':
+            webbrowser.open_new("https://www.mediafire.com/file/fvr4ghv0s01uscw/Alphentus+1D.rar/file")
+        case '73.5':
+            webbrowser.open_new("https://www.mediafire.com/file/8lrq7ukhvtdz26f/Actinium.rar/file")
+        case '74.5':
+            webbrowser.open_new("https://www.mediafire.com/file/oge4iwquxyefzsd/Fanta+Clicker.zip/file")
+        case '75.5':
+            webbrowser.open_new("https://www.mediafire.com/file/x5o91rx2bx0ngq0/Cooper+Beta+b1.3.zip/file")
+        case '76.5':
+            webbrowser.open_new("https://www.mediafire.com/file/jqyeihz98ll1lbw/Clowdy+Lite.zip/file")
+        case '77.5':
+            webbrowser.open_new("https://www.mediafire.com/file/bcpakde41ynj5h8/Eternal+3.0.0.zip/file")
+        case '78.5':
+            webbrowser.open_new("https://www.mediafire.com/file/gvtfiv7gvwk6tyc/GameSense+v2.1.0.zip/file")
+        case '79.5':
+            webbrowser.open_new("https://www.mediafire.com/file/ax29r325ijiuuj2/GameSense+v2.3.0.zip/file")
+        case '80.5':
+            webbrowser.open_new("https://www.mediafire.com/file/g0kt43ig3y2vxfc/Exodus+5.4.zip/file")
+        case '81.5':
+            webbrowser.open_new("https://www.mediafire.com/file/zn6bxt5tab95vgm/Horizon+6.0.zip/file")
+        case '82.5':
+            webbrowser.open_new("https://www.mediafire.com/file/de1twzs1by1etr4/Hush+B4.zip/file")
+        case '83.5':
+            webbrowser.open_new("https://www.mediafire.com/file/p21lgqmx23j1fbo/GetBypass+b1.0.zip/file")
+        case '84.5':
+            webbrowser.open_new("https://www.mediafire.com/file/q9nh7ygxcmdj6vp/Euphoria+B7.zip/file")
+        case '85.5':
+            webbrowser.open_new("https://www.mediafire.com/file/g0thl5fydsj9en1/DietrichPaul's+ClientBase.zip/file")
+        case '86.5':
+            webbrowser.open_new("https://www.mediafire.com/file/m0nskl3vg6algd6/Dortware+1.5.0.zip/file")
+        case '87.5':
+            webbrowser.open_new("https://www.mediafire.com/file/lelikw6cfvlg6fi/GetBypass+a1.0.zip/file")
+        case '88.5':
+            webbrowser.open_new("https://www.mediafire.com/file/yrma17p85kg3881/Juul+1.0.zip/file")
+        case '89.5':
+            webbrowser.open_new("https://www.mediafire.com/file/qjngasjlmsr3wmz/Elysium+b1.zip/file")
+        case '90.5':
+            webbrowser.open_new("https://www.mediafire.com/file/fqfwklesnevyzkt/Jello+0.1.zip/file")
+        case '91.5':
+            webbrowser.open_new("https://www.mediafire.com/file/99hn6xkz4m60inq/Flux+B39.11.zip/file")
+        case '92.5':
+            webbrowser.open_new("https://www.mediafire.com/file/ywj1u8kgc1junoo/raid0-src.zip/file")
+        case '93.5':
+            webbrowser.open_new("https://www.mediafire.com/file/r7avg3eu84o3afi/Cloud+1.1.zip/file")
+        case '94.5':
+            webbrowser.open_new("https://www.mediafire.com/file/12f3zgonyjx8swe/Deluge+0.23.zip/file")
+        case '95.5':
+            webbrowser.open_new("https://www.mediafire.com/file/um0ku2ykzq5xwqx/Icarus+B15.zip/file")
+        case '96.5':
+            webbrowser.open_new("https://drive.google.com/file/d/1Ov5r2uUWV0LICUZHWsjrVfdlDcl4JjUC/view?usp=sharing")
+        case '1.6':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/seppuku.jar")
+        case '2.6':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/lambda-3.3.0.jar")
+        case '3.6':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/3arthh4ck.jar")
+        case '4.6':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/phobos.jar")
+        case '5.6':
+            webbrowser.open_new("https://mimhax.netlify.app/Files/gamesense.jar")
+        case '6.6':
+            webbrowser.open_new("https://www.mediafire.com/file/iygm6xr048h6hwi/SkidHook.zip/file")
+        case '7.6':
+            webbrowser.open_new("https://www.mediafire.com/file/n7ql34fsdh1dunc/Kami_Blue.zip/file")
+        case '8.6':
+            webbrowser.open_new("https://www.mediafire.com/file/gvhbodvtv7f92si/Phobos.zip/file")
+        case '9.6':
+            webbrowser.open_new("https://www.mediafire.com/file/v13vf47qe6d7xcp/zamozorka.zip/file")
+        case '10.6':
+            webbrowser.open_new("https://www.mediafire.com/file/5dr1s5s63m6gs35/Cosmos+(2).zip/file")
+        case '11.6':
+            webbrowser.open_new("https://www.mediafire.com/file/oa47cls6r7oucun/blackout.zip/file")
+        case '12.6':
+            webbrowser.open_new("https://www.mediafire.com/file/5okjk2a914z18ir/Abyss.zip/file")
+        case '13.6':
+            webbrowser.open_new("https://gitlab.com/Aristois/Installer/builds/artifacts/master/raw/packager/Aristois-Free.jar?job=build")
+        case '14.6':
+            webbrowser.open_new("https://workupload.com/file/6MmDFG3vGgj")
+        case '15.6':
+            webbrowser.open_new("https://www.mediafire.com/file/7e39w4r6qkloljd/Shoreline.zip/file")
+        case _:
+            continue
